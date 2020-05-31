@@ -1,0 +1,38 @@
+students-bounces@inf.ed.ac.uk
+---------------
+[Students] Software Engineer paid part time work opportunity
+---------------
+Available to apply for through the MyCareerHub.
+
+ 
+
+https://www.hub.ed.ac.uk/s/mycareerhub/jobs/detail/652499/software-engineer
+
+ 
+
+ 
+
+Student+ is a messenger purpose-built for university students. It allows students at the same university to communicate more conveniently than ever before. Simply input your degree, your modules, and your further interests, and be seamlessly connected to the groups chats most relevant to you. The result is greater than a messenger - Student+ is a community. Available now on iOS and Android.
+
+Requirements:
+
+- We are looking to strengthen our engineering team.
+- Specifically: Full Stack Web Developers, Front-End Web Developers, Back-End Web Developers, Mobile Developers.
+- The Student+ app is currently built with: Javascript, React Native and Firebase.
+
+Desirable:
+
+- Experience with React and Redux.
+- Highly driven individuals who value their time, and apply it effectively.
+- Those who believe the best part of starting a company is to provide genuine value to society and drive technology forward.
+- An entrepreneurial spirit.
+
+What we offer:
+
+- Payment for an agreed task (consultancy).
+- Equity share in the company upon successful completion of agreed task (join the team).
+- Opportunity to join a promising startup in its early days.
+- Work within a highly effective team.
+
+
+

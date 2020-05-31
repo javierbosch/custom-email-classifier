@@ -1,0 +1,83 @@
+mathworks@go.mathworks.com
+---------------
+How to speed up MATLAB code.
+---------------
+MATLAB Digest | Academic Edition - February 2020 	
+To view this email as a web page, click here <http://app.go.mathworks.com/e/es?s=646005169&e=7229978&elqTrackId=3e0c3ae549194cde96eaaf49863db599&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> . 	
+ <http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/%7bee3a8f95-f384-4769-b96a-88b87f102082%7d_Digest-acad-header.jpg> 	
+February 2020	 Sign Up <https://www.mathworks.com/company/newsletters/signup.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=efa8e709d8ad4e6a9e2c3d6d133b7ad7&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	  	 Contact Us <https://www.mathworks.com/company/aboutus/contact_us?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=ff0813cabd8c4c3daf53e1983ad0866b&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	 	 <http://app.go.mathworks.com/e/er?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&s=646005169&lid=410&elqTrackId=3d13e0483c824f13af308d7da9a428f8&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> 	 	 <http://app.go.mathworks.com/e/er?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&s=646005169&lid=411&elqTrackId=844a456fdf834ad680fd6638d02d338f&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> 	 	 <http://app.go.mathworks.com/e/er?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&s=646005169&lid=414&elqTrackId=d12406de76324af19d5f237ffe1bf20e&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> 	 	 <http://app.go.mathworks.com/e/er?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&s=646005169&lid=18922&elqTrackId=1284ad065d384c30a5793b5244820559&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> 	 
+ 	 
+ 	  <http://app.go.mathworks.com/e/er?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&s=646005169&lid=20211&elqTrackId=aeb311452d5949e59a0cc583cbbe9161&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> 	  	 How to Speed Up MATLAB Code <http://app.go.mathworks.com/e/er?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&s=646005169&lid=20211&elqTrackId=e32e6b4f1a0f44329bf74e6abb991cef&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> 	 
+	
+Check out all the MATLAB and Simulink "How To" videos to learn this and other techniques. 	 
+	
+» Watch YouTube playlist <http://app.go.mathworks.com/e/er?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&s=646005169&lid=20211&elqTrackId=79d04da023a44e48b9444e66c37398b5&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> 	 
+ 	 
+ 	 
+ <http://app.go.mathworks.com/e/er?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&s=646005169&lid=21364&elqTrackId=803bb7c4a91d43b8930b913818331f4c&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> 	  	 5-MINUTE READ	 
+When to Use Machine Learning vs. Deep Learning <http://app.go.mathworks.com/e/er?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&s=646005169&lid=21364&elqTrackId=be07f15f5d67443eb0b07fb5b8b0983d&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> 	 
+	
+	
+» Read Embedded Computing Design article <http://app.go.mathworks.com/e/er?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&s=646005169&lid=21364&elqTrackId=aae77de75e864215a35b76368c0533ec&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> 	 
+ 	 
+ 	 
+ <http://app.go.mathworks.com/e/er?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&s=646005169&lid=21050&elqTrackId=9d83cf7aefdd4ae28621aa5b92bf3263&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> 	  	 Online Course: Practical Data Science
+with MATLAB <http://app.go.mathworks.com/e/er?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&s=646005169&lid=21050&elqTrackId=d3eb11d637b945e3bd5613a7f1d9f83b&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> 	
+	
+Completing this Coursera specialization will give you the skills and confidence you need to achieve practical results quickly.	 
+	
+» Learn more <http://app.go.mathworks.com/e/er?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&s=646005169&lid=21050&elqTrackId=614533168d0841ef9304795b95ac4a52&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> 	 
+ 	 
+ 	 
+ <http://app.go.mathworks.com/e/er?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&s=646005169&lid=21526&elqTrackId=0719adedd9f247a294b3087c7289ae53&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> 	  	 4-MINUTE READ	 
+The World's Simplest Impossible Problem According to Cleve <http://app.go.mathworks.com/e/er?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&s=646005169&lid=21526&elqTrackId=b3fa8fb0f6b04753a596abc8d85e9570&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> 	 
+	
+	
+» Read blog on Medium <http://app.go.mathworks.com/e/er?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&s=646005169&lid=21526&elqTrackId=6a9ebc21fe6842d9a03e661777696896&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> 	 
+ 	 
+ 	 
+ <https://www.mathworks.com/company/newsletters/articles/test-automation-from-desktop-simulation-to-real-time-testing.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=cf4c7e6dcf6e42dda227376665d48fe7&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	  	 Test Automation from Desktop Simulation to Real-Time Testing <https://www.mathworks.com/company/newsletters/articles/test-automation-from-desktop-simulation-to-real-time-testing.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=d5345aa7340a4e08aaaa5103f7f73a9d&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	 
+	
+	
+» Read article <https://www.mathworks.com/company/newsletters/articles/test-automation-from-desktop-simulation-to-real-time-testing.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=ec0179e89fa5440d8e4babcea8240b94&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	 
+ 	 
+ 	 
+ <https://www.mathworks.com/videos/next-generation-wifi-networks-for-time-critical-applications-1575998523638.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=46a7e94e7e4341e181e50ec24cbcb879&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	  	 Next-Generation Wi-Fi Networks for Time-Critical Applications at Intel <https://www.mathworks.com/videos/next-generation-wifi-networks-for-time-critical-applications-1575998523638.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=738055fcc9f444a9a4e94323e53881d9&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	 
+	
+	
+» Watch video <https://www.mathworks.com/videos/next-generation-wifi-networks-for-time-critical-applications-1575998523638.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=b53b1b0342bf4414844836516ca7992b&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	 
+ 	 
+ 	 
+ <https://www.mathworks.com/videos/model-based-hyper-scalable-assessment-of-automated-vehicle-functions-1575988548025.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=70f9be2e83a24e69939c432b6631c93b&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	  	 Model-Based Hyper-Scalable Assessment of Automated Vehicle Functions at Samsung <https://www.mathworks.com/videos/model-based-hyper-scalable-assessment-of-automated-vehicle-functions-1575988548025.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=84a476d764f04cbeaff554dc0e09452e&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	 
+	
+	
+» Watch video <https://www.mathworks.com/videos/model-based-hyper-scalable-assessment-of-automated-vehicle-functions-1575988548025.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=7fcd014b6f11429a94b155a0105d09da&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	 
+ 	 
+ 	 
+ 	 
+ 	 
+ 	 Your school offers a campus-wide MATLAB license
+» Get access now <https://www.mathworks.com/academia/tah-support-program/eligibility.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&email-tah-chk&elqTrackId=d2ebfba2d7ba440f94c22106b4fc513e&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	  <https://www.mathworks.com/academia/tah-support-program/eligibility.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&email-tah-chk&elqTrackId=3959caf5eb34455ba484cd9d110a7827&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	 
+ 	 
+Explore these resources:	 
+	 	 	 	 	
+Self-Paced Online Courses <http://app.go.mathworks.com/e/er?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&s=646005169&lid=3034&elqTrackId=8f83f7449cda40e18cf5e26f35596452&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1> 	  	 Examples <https://www.mathworks.com/help/examples.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=9109a79caea249209997df702f35c4d9&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	  	 Videos <https://www.mathworks.com/videos.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=98ab3087e60a4e97bbf53f2c0c94c234&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	 
+	 	 	 	 	
+Courseware <https://www.mathworks.com/academia/courseware.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=024713cf6fdd46dfb761b5d19875f38c&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	  	 Webinars <https://www.mathworks.com/company/events.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=ac28636b7ba24e04b383159e9a1d8145&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	  	 Books <https://www.mathworks.com/support/books.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=531eceb9cab844b2979b5e916e639fe6&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858> 	 
+ 	 
+ <http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/%7b3cab5f58-8490-4480-8d56-14f30d3cc91f%7d_Digest-footer.jpg> 	
+
+© 2020 The MathWorks, Inc.
+MATLAB and Simulink are registered trademarks of The MathWorks, Inc. See a list of additional trademarks <https://uk.mathworks.com/company/aboutus/policies_statements/trademarks.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=bcebcaf724534293b11fbb7c87f5a68e&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858&elqcst=272&elqcsid=34> .
+Other product or brand names may be trademarks or registered trademarks of their respective holders.
+
+You are subscribed as j.c.bosch-carracedo@sms.ed.ac.uk 
+Manage <https://go2.mathworks.com/preference-center?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=9955719087014928aee7c97789f82916&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858&elqcst=272&elqcsid=34>  your email preferences or unsubscribe from our commercial email promotions. View our privacy policy <https://uk.mathworks.com/company/aboutus/policies_statements.html?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=4d83e627030a4fcd9a8c4277b81c81a9&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858&elqcst=272&elqcsid=34> .
+
+The MathWorks, Ltd. <https://uk.mathworks.com/?s_v1=29852&elqem=2962306_EM_WW_20-02_NEWSLETTER_EDU-DIGEST-STUDENT&elqTrackId=fd18caca6fb54f68bcfbf6620de5abec&elq=2bd480f1afaa44338ef9869e42ac087d&elqaid=29852&elqat=1&elqCampaignId=10858&elqcst=272&elqcsid=34> 
+Matrix House, Cambridge Business Park, Cambridge CB4 0HH
++44 (0) 1223 226700. Registration Number 3444214
+
+Headquarters: The MathWorks, Inc
+3 Apple Hill Drive, Natick, MA 01760-2098, USA | 001 508-647-7000	 
+ <https://s646005169.t.en25.com/e/FooterImages/FooterImage1?elq=2bd480f1afaa44338ef9869e42ac087d&siteid=646005169> 

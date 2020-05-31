@@ -1,0 +1,25 @@
+inf1a-students-bounces@inf.ed.ac.uk
+---------------
+[Inf1a-students] Tutorial 9
+---------------
+I’ve just posted the promised update of tutorial 9.
+
+Apologies that I didn’t get it out earlier.
+
+The main change is that the tutorial now makes proper use of Data.Set
+
+That said I I have also provided more structure for the answers, and revised the text.
+
+As usual, any comments gratefully received.
+
+Best,
+
+Michael
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+_______________________________________________
+Inf1a-students mailing list
+Inf1a-students@inf.ed.ac.uk
+http://lists.inf.ed.ac.uk/mailman/listinfo/inf1a-students

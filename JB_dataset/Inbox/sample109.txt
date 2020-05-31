@@ -1,0 +1,15 @@
+learn@ed.ac.uk
+---------------
+Informatics 1 - Object Oriented Programming (2019-2020)[SEM2]: Peer Feedback Framework back online
+---------------
+Hi everyone,
+
+we could now successfully fix and upgrade the Feedback Framework for Part II of the assignment. You should notice an improvement in performance.
+
+We migrated all data that was saved successfully before the performance issues appeared last week. To be on the safe side, please double check that your submissions are still as you would like them to be.  Also, finish up any additional comments you would like to make by the new deadline this coming Friday the 13th of March 4pm (I recommend not waiting until Thursday to do that!).  Make sure you have a copy of your submissions in a document as a backup. 
+
+Remember that you might have to clear your browser cache before you can access the framework successfully. You could also still encounter rerouting issues which is nothing we can do about other than asking you to login first via https://weblogin.inf.ed.ac.uk <https://weblogin.inf.ed.ac.uk/>  and then accessing the Peer Framework if they occur (see here https://piazza.com/class/jyszupso6zq5f1?cid=371).
+
+all the best
+
+Volker

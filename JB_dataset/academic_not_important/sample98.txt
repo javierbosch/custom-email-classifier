@@ -1,0 +1,48 @@
+ug-students-bounces@inf.ed.ac.uk
+---------------
+[ug-students] Programming Club - Programming Competition, Friday the 8th of November
+---------------
+Dear students,
+
+As part of the Programming Club, we will organise a programming 
+competition in week 8 (this week) of the current semester (Friday the 
+8th of November, 16:00 - 18:00, AT 5.05).
+
+We had great success last year with many students turning up and 
+participating. The competition is partly for you to see how it would be 
+like to take part in an actual competition but mostly to have fun There 
+will be prizes for the best three teams!
+
+Check out this Informatics news item from last year:
+https://www.ed.ac.uk/informatics/news-events/stories/2018/informatics-progclub-competition 
+
+
+Please turn up on time for the club on the 8th if you want to 
+participate. You will start in teams of up to two people, so please use 
+the following form to register your team:
+https://forms.gle/PoKQ8KE4cx6gnrjQ7
+
+If you want to participate but don't have a team mate we can try to find 
+one for you on the day or you participate on your own.
+
+All the best
+Volker
+
+-- 
+Volker Seeker
+University of Edinburgh
+School of Informatics
+Appleton Tower, Room 5.02
+11 Crichton Street
+Edinburgh EH8 9LE
+United Kingdom
+phone: +44 (0) 131 6503149
+
+
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+_______________________________________________
+ug-students mailing list
+ug-students@inf.ed.ac.uk
+http://lists.inf.ed.ac.uk/mailman/listinfo/ug-students

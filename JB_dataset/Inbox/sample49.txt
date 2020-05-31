@@ -1,0 +1,34 @@
+squinney@inf.ed.ac.uk
+---------------
+Account activity for March 2020
+---------------
+This is a regular monthly email from the School of Informatics Computing
+Team which summarises your recent account activity. For the month of
+March 2020 your account 's1915183' was used to access Informatics
+computing resources from remote locations on 6 occasions.
+
+Please review all these hosts listed below and check for any activity
+which appears to be unusual (i.e. logins from locations you do not
+recognise).
+
+no-dns-yet.as25178.net (Cosign: 2)
+82-132-218-238.dab.02.net (Cosign: 1)
+172.21.4.45 {EdLAN} (Cosign: 1)
+172.21.8.139 {EdLAN} (Cosign: 1)
+172.21.4.47 {EdLAN} (Cosign: 1)
+
+
+For a more detailed view you can access the logs of all authentication
+activity for your account at:
+
+  https://cabin.inf.ed.ac.uk/authview/?month=3&year=2020
+
+If you believe there has been any unauthorised use of your account
+please contact the Computing Support Team via:
+
+  https://www.inf.ed.ac.uk/systems/support/form/
+
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.

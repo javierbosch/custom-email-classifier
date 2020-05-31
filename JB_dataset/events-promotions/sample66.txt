@@ -1,0 +1,185 @@
+students-bounces@inf.ed.ac.uk
+---------------
+[Students] Karen Sparck Jones Lecture - 23 October, Imperial College
+---------------
+Dear All
+
+ 
+
+This is just a reminder that the Karen Spärck Jones Lecture, delivered by Mirella Lapata, will be livestreamed in G.07 at 6pm this evening. 
+
+ 
+
+Kind regards
+
+ 
+
+Lorna
+
+	 
+
+		Begin forwarded message:
+
+		 
+
+		From: UKCRC <ukcrc@BCS.UK <mailto:ukcrc@BCS.UK> >
+
+		Subject: Karen Sparck Jones Lecture - 23 October, Imperial College
+
+		Date: 11 October 2019 at 14:35:40 BST
+
+		To: UKCRC@JISCMAIL.AC.UK <mailto:UKCRC@JISCMAIL.AC.UK> 
+
+		Reply-To: UKCRC <ukcrc@BCS.UK <mailto:ukcrc@BCS.UK> >
+
+		 
+
+		Dear UKCRC Members
+
+		 
+
+		Just a quick reminder about this year’s Karen Spärck Jones Lecture on Wednesday 23 October.
+
+		 
+
+		You may also be interested to know that the lecture will be live streamed and the link and booking details for attending the event in person may be found on the BCS website <https://www.bcs.org/events-home/karen-spaerck-jones-lecture/> .
+
+		 
+
+		Kind regards
+
+		Maxine
+
+		 
+
+		Maxine Leslie
+
+		Secretariat Support to UKCRC
+
+		c/o BCS, The Chartered Institute for IT
+		First Floor, Block D, North Star House, North Star Avenue, Swindon SN2 1FA
+		Tel: +44 (0) 1793 417 417  |  Direct Dial: +44 (0) 1793 417 698  |  Mobile: +44 (0) 7709 411028
+
+		Email: ukcrc@bcs.uk <mailto:ukcrc@bcs.uk>   |  Web: www.ukcrc.org.uk <http://www.ukcrc.org.uk/> 
+
+		 
+
+		 
+
+	
+
+View in browser <https://bcshq.org/9U7-6GQZ1-33M4LZZW14/cr.aspx> 
+
+ <https://bcshq.org/9U7-6GQZ1-M4LZZW-3QJR2N-1/c.aspx> 
+
+ 
+
+ <https://i.emlfiles4.com/cmpimg/t/s.gif> 
+
+Karen Spärck Jones lecture 2019
+
+Translating from Multiple Modalities to Text and Back
+
+ 
+
+ <https://i.emlfiles4.com/cmpimg/t/s.gif> 
+
+ 
+
+Speaker:  Professor Mirella Lapata
+
+ 
+
+Where: Imperial College London, South Kensington Campus, London, SW7 2AZ
+
+ 
+
+When: Wednesday 23 October 2019
+
+ 
+
+ <https://i.emlfiles4.com/cmpimg/t/s.gif> 
+
+ <https://i.emlfiles4.com/cmpimg/t/s.gif> 
+
+Recent years have witnessed the development of a wide range of computational tools that process and generate natural language text. Many of these have become familiar to mainstream computer users in the from of web search, question answering, sentiment analysis, and notably machine translation.
+
+ 
+
+In this talk Professor Lapata will argue that in order to render electronic data more accessible to individuals and computers alike, new types of translation models need to be developed. Focussing on three examples, text simplification, source code generation, and movie summarization. Illustrating how recent advances in deep learning can be extended in order to induce general representations for different modalities and learn how to translate between these and natural language.
+
+ <https://i.emlfiles4.com/cmpimg/t/s.gif> 
+
+ 
+
+<image001.png>
+
+ 
+
+ <https://i.emlfiles4.com/cmpimg/t/s.gif> 
+
+ <https://i.emlfiles4.com/cmpimg/t/s.gif> 
+
+ <https://i.emlfiles4.com/cmpimg/t/s.gif> 
+
+ <https://i.emlfiles4.com/cmpimg/1/5/7/2/1/files/10400574_grey.png> 
+
+ <https://bcshq.org/9U7-6GQZ1-M4LZZW-3QJO22-1/c.aspx> 
+
+ <https://bcshq.org/9U7-6GQZ1-M4LZZW-3QJO23-1/c.aspx> 
+
+ <https://bcshq.org/9U7-6GQZ1-M4LZZW-3QJO24-1/c.aspx> 
+
+ <https://bcshq.org/9U7-6GQZ1-M4LZZW-3QJO25-1/c.aspx> 
+
+ <https://i.emlfiles4.com/cmpimg/1/5/7/2/1/files/10400574_grey.png> 
+
+ 
+
+ <https://i.emlfiles4.com/cmpimg/t/s.gif> 
+
+ 
+
+bcs.org <https://bcshq.org/9U7-6GQZ1-M4LZZW-3QJO26-1/c.aspx> 
+
+ 
+
+Legal information
+
+ 
+
+This email and any files transmitted with it have come from and are the property of The British Computer Society, a charity registered in England and Wales (number 292786) or any of its group companies including its wholly owned subsidiaries BCS Learning & Development Limited, a company registered in England and Wales (number 1005485) and Activ Training Limited, a company registered in England and Wales (number 03123597) and may be privileged, are confidential and intended solely for the use of the intended recipient. No-one else may retain, use, copy, forward, distribute or place any reliance on all or any of it in any form. If received in error, it should be destroyed and not disseminated. Our registered office is 1st Floor, Block D, North Star House, North Star Avenue, Swindon, England SN2 1FA. If you receive this email in error, please contact custsupport@bcs.uk <mailto:custsupport@bcs.uk> 
+
+ 
+
+ 
+
+This email distribution list is a broadcast list that is used by us to send email messages to our members. You can change your email preferences or update your email address in the Member Area.
+
+ 
+
+Unsubscribe <https://bcshq.org/9U7-6GQZ1-33M4LZZW14/uns.aspx>     |    Forward this email <https://bcshq.org/9U7-6GQZ1-33M4LZZW14-1/fw.aspx> 
+
+		 <https://bcshq.org/9U7-6GQZ1-M4LZZW/o.gif> 
+
+		 
+
+		
+________________________________
+
+
+		To unsubscribe from the UKCRC list, click the following link:
+		https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=UKCRC&A=1 <https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=UKCRC&A=1> 
+
+		 
+
+________________________________
+
+		To unsubscribe from the UKCRC list, click the following link:
+		https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=UKCRC&A=1 <https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=UKCRC&A=1> 
+
+		 
+
+	 
+
+	The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336. 

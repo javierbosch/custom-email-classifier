@@ -1,0 +1,26 @@
+students-bounces@inf.ed.ac.uk
+---------------
+[Students] Online game for discovering decision making strategies
+---------------
+Hi everyone!
+
+I'm looking for participants to play an online game that I've developed as part of my final year Honours project.
+
+The game has been designed to gather data on the different strategies people use when trying to discover and take rewarding actions.
+The game involves several rounds, where each round you will have opportunities to make a choice, with the ultimate goal of getting the highest score you can. 
+
+The game is available at the link below:
+https://playthebandit.herokuapp.com/
+
+(Due to limits on the free tier of the service used to host it, the game may take a few seconds to load) 
+
+Participation is completely voluntary and you can withdraw at any point. The game should take approximately 5-10 minutes - perfect if you want a quick break! I would be extremely grateful for your participation! 
+
+Feel free to distribute this call, and please do not hesitate to email me at s1307311@sms.ed.ac.uk if you have any questions. 
+
+The study is certified according to the Informatics Research Ethics Process, RT 4355. You can find the Participant Information Sheet on the first page of the game.
+
+Thank you in advance for your help!
+
+Patrick Laverty
+5th Year MInf Candidate

@@ -1,0 +1,21 @@
+students-bounces@inf.ed.ac.uk
+---------------
+[Students]  Mandelbrot Maps, Fractal explorer
+---------------
+Hi!
+
+I'm currently looking for people to try out and critique my 4th year honours project; an interactive fractal explorer built using WebAssembly. It is available to try here mmaps.freddiejbawden.com <http://mmaps.freddiejbawden.com> .
+
+
+I have a short feedback questionaire (10 multiple choice questions) for you complete if you wish. Responses are anonymous so you can be as mean as you want! The form is available here; mmaps.freddiejbawden.com/feedback <http://mmaps.freddiejbawden.com/feedback> .
+
+
+
+
+This study was certified according to the Informatics Research Ethics Process, RT number 2019/17630. If you have any questions, please don't hesitate to get in touch. 
+
+
+Thanks in advance!
+
+Freddie, 4th Year Comp Sci
+

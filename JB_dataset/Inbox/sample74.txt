@@ -1,0 +1,221 @@
+students-bounces@inf.ed.ac.uk
+---------------
+Re: [Students] Talks 2nd April Lecturer/Senior Lecturer/Reader in Natural Language Processing (050522)
+---------------
+Apologise all, while the title of the email was correct I missed updating the title of the post within the body of email. 
+
+ 
+
+These talks are for Natural Language Processing. 
+
+ 
+
+Best wishes, 
+
+Sam 
+
+ 
+
+------
+
+Samantha Inch
+
+Staffing Support Manager
+
+HR Office
+
+Room 5.39
+
+University of Edinburgh, Informatics Forum
+
+10 Crichton St | Edinburgh | EH8 9AB
+
+Tel:  +44 131 650 9006
+
+ 
+
+The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336.
+
+ 
+
+From: INCH Samantha 
+Sent: 24 March 2020 16:35
+To: staff@inf.ed.ac.uk; students@inf.ed.ac.uk; staff-2@inf.ed.ac.uk
+Cc: INFORMATICS HR <infhr@inf.ed.ac.uk>
+Subject: Talks 2nd April Lecturer/Senior Lecturer/Reader in Natural Language Processing (050522)
+
+ 
+
+The talks for Lecturer/Senior Lecturer/Reader in Natural Language Processing will take place Thursday 2nd April. These talks are confidential and should not be shared out with the school. We will confirm the link to watch these talks closer to the talks. 
+
+ 
+
+Feedback on the talks can also be sent by email to Jane Hillston (Jane.Hillston@ed.ac.uk <mailto:Jane.Hillston@ed.ac.uk> ) or Frank Keller (keller@inf.ed.ac.uk <mailto:keller@inf.ed.ac.uk> ). 
+
+ 
+
+If anyone wishes to talk with the candidates please contact their hosts who will be arranging an online schedule for them. 
+
+ 
+
+If anyone has any questions please just let me know and I will be more than happy to help. 
+
+ 
+
+Best wishes, 
+
+Sam 
+
+ 
+
+------------
+
+Research talks 
+
+ 
+
+9.00am: Christian Hardmeier (host Kenneth Heafield Kenneth.Heafield@ed.ac.uk <mailto:Kenneth.Heafield@ed.ac.uk> )
+
+ 
+
+Biography:
+
+Christian Hardmeier is a Researcher and Associate Professor (Docent) in Computational Linguistics at Uppsala University. He is currently visiting the School of Informatics for a 1.5-year research visit. Before joining Uppsala University in 2011, he was a member of the machine translation group at Fondazione Bruno Kessler in Trento.
+
+Christian's research concentrates on multilingual NLP and machine translation (MT), and his vision is to create NLP systems with an awareness of linguistic context and non-linguistic aspects of communicative situations. This includes information processing at the discourse level, where his focus has been on generating and interpreting referring expressions such as pronouns.
+
+Christian is best known for his contributions to document-level MT, including methods, tools and datasets for training and evaluating discourse phenomena in MT, studying translation divergences and learning about reference from multilingual data. His PhD thesis on Discourse in Statistical Machine Translation received the best thesis award of the European Association for Machine Translation in 2015.
+
+ 
+
+Publications:
+
+https://christianhardmeier.rax.ch/publications/
+
+ 
+
+Research talk: 
+
+Good Pronoun Translation -- What is it and how do we recognise it?
+
+ 
+
+Pronouns are a long-standing challenge for machine translation. They are function words with little semantic content of their own. They frequently participate in grammatical agreement relations with other elements of the text, and their interpretation is determined by the context they occur in. As a consequence, they often require wider linguistic context for either interpretation or translation than nouns or verbs. Pronouns are also subject to significant cross-linguistic variation as a result of both systemic language differences and varying speaker preferences across languages and genres. In addition to giving a broad overview of my research, I discuss the specific problems pronouns pose for machine translation and present my research on the evaluation of MT-generated pronoun translations. A series of studies with automatic, semi-automatic and manual evaluation methods shows that the difficulty of pronoun translation varies widely for different pronoun types.
+
+While manual evaluation is costly and places high demands on the annotators' language proficiency, the existing automatic evaluation methods focus on a narrow subset of pronoun uses only and fail to reward a large number of correct translations.
+
+ 
+
+9.45am: Hassan Sajjid (host Steve Renals s.renals@ed.ac.uk <mailto:s.renals@ed.ac.uk> )
+
+ 
+
+Biography:
+
+Dr. Hassan Sajjad is a Scientist at the Qatar Computing Research Institute (QCRI), HBKU. He leads and manages the applied machine learning team. His research interests include interpretation of deep neural models, machine translation, domain adaptation, and natural language processing involving low-resource and morphologically-rich languages. His research work has been published in several prestigious venues such as CL, CSL, ICLR, ACL and AAAI. His recent work in collaboration with MIT and Harvard on the interpretation of deep models has also been featured in several tech blogs including MIT News. In addition, Dr. Sajjad leads the commercialization of machine translation technology and has vast experience in building practical machine translation systems. He has also been involved in teaching courses on deep learning internationally. Before joining QCRI, Dr. Sajjad was at the University of Stuttgart, Germany where he did his PhD in Computer Science under the supervision of Prof. Dr. Hinrich Schütze.
+
+ 
+
+Publications:
+
+Publication list: https://hsajjad.github.io/resources/publications.pdf <https://hsajjad.github.io/resources/publications.pdf> 
+
+Google Scholar: https://scholar.google.de/citations?user=t3BH6NkAAAAJ&hl=en <https://scholar.google.de/citations?user=t3BH6NkAAAAJ&hl=en> 
+
+ 
+
+Research talk: 
+
+Interpreting Deep NLP Models
+
+ 
+
+Despite the remarkable evolution of deep neural networks in Natural Language Processing (NLP), their interpretability remains a challenge. Interpreting the behavior of neural networks is considered important for facilitating debugging, increasing trust in AI systems, and assisting ethical decision making. In this talk, I will present my work on interpreting deep NLP models at representation level and at individual neuron level. In particular, I will seek answers to the following questions: (i) How much linguistic information is learned?, (ii) How distributed or focused is the information?, and (iii) What is the role of the individual neurons in the network? Later, I will  present the applications of interpreting deep models towards better and efficient models. In particular, I will talk about reducing systematic bias by controlling output translations, improving translation quality by enriching models with morphological information and efficient transfer learning by removing redundant and irrelevant neurons. Finally, I will touch upon a research direction that I consider is an essential step towards fair, interpretable and generalized models.
+
+ 
+
+10.30am: Break
+
+ 
+
+10.45am: Milos Stanojevic (host Mark Steedman steedman@inf.ed.ac.uk <mailto:steedman@inf.ed.ac.uk> )
+
+ 
+
+Biography:
+
+Miloš Stanojević received a BSc in Computer Science at the University of Niš and MSc in Mathematical Linguistics at the Charles University in Prague and the University of Malta. He completed his PhD in 2017 at the University of Amsterdam, advised by Prof. Khalil Sima'an. After PhD he worked with Prof. Ed Stabler at Nuance Communications before joining the University of Edinburgh as a Postdoctoral Researcher in the group of Prof. Mark Steedman. Miloš's research interests cover machine learning methods for structure prediction, machine translation, parsing algorithms, mildly context-sensitive grammar formalisms and human sentence processing.
+
+ 
+
+Publications:
+
+https://stanojevic.github.io/publications.html
+
+ 
+
+Research talk: 
+
+Integrating Deep Learning with Deep Syntax
+
+ 
+
+There are many different theories about how language works but almost all of them would agree on three points (i) language is processed incrementally, (ii) it is largely learned from the data, and (iii) it has a hierarchical structure that stems from its semantics. However, many linguistic models and almost all deep learning models ignore one or more of these facts.
+
+In this talk I will try to convince you that incorporating all three properties together can provide models that are at the same time both accurate at NLP tasks and more explanatory concerning the way how humans process language. 
+
+ 
+
+11.30am: Feedback Session
+
+ 
+
+Teaching talks
+
+ 
+
+The presentation should be a 20 minute lecture aimed at third year undergraduates in Informatics as part of an introductory course on natural language processing. The lecture should introduce hidden Markov models, using examples from NLP. You should motivate the use of these models, introduce the general formalism, and touch upon additional topics (e.g., training and decoding) as time permits. You can assume that the audience is familiar with linear algebra, calculus, discrete mathematics (including probability) and computer science concepts at the second year undergraduate level; if you assume NLP material previous covered in the same course, then please signpost this. The presentation will be attended by students and staff and there will be five minutes afterwards to ask questions about the presentation, and about the candidate's approach to teaching
+
+ 
+
+1.00pm: Hassan Sajjid
+
+ 
+
+1.30pm: Christian Hardmeier
+
+ 
+
+2.00pm: Break
+
+ 
+
+2.15pm: Milos Stanojevic
+
+ 
+
+2.45pm: Feedback Session
+
+ 
+
+------
+
+Samantha Inch
+
+Staffing Support Manager
+
+HR Office
+
+Room 5.39
+
+University of Edinburgh, Informatics Forum
+
+10 Crichton St | Edinburgh | EH8 9AB
+
+Tel:  +44 131 650 9006
+
+ 
+
+The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336.
+
+ 

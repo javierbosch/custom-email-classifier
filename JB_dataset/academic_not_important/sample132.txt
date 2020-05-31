@@ -1,0 +1,22 @@
+sys-announce-bounces@inf.ed.ac.uk
+---------------
+[sys-announce] "archlute" reboot on Friday morning
+---------------
+The server archlute.inf.ed.ac.uk - one of the machines which provides the xrdp.inf.ed.ac.uk remote desktop service - will be rebooted at 9:30 on Friday 18 October to clear a problem. The reboot should only take a few minutes. While it's down the other xrdp.inf.ed.ac.uk server lute.inf.ed.ac.uk should still be up and operational, so please feel free to use that instead to avoid inconvenience.
+
+There's more about the remote desktop service at:
+
+	http://computing.help.inf.ed.ac.uk/remote-desktop
+
+Chris.
+
+Computing help for the School of Informatics:  http://computing.help.inf.ed.ac.uk
+
+_______________________________________________
+sys-announce mailing list
+sys-announce@inf.ed.ac.uk
+http://lists.inf.ed.ac.uk/mailman/listinfo/sys-announce
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.

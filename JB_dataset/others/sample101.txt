@@ -1,0 +1,26 @@
+password-selfservice@inf.ed.ac.uk
+---------------
+Your Informatics password
+---------------
+Informatics DICE username: s1915183
+
+Welcome to Informatics!
+
+In addition to your University EASE account, we have set up an
+Informatics DICE account for you so that you will be able to access
+locally provided services within Informatics. You will need your
+Informatics DICE username, for example, to access the machines in the
+Informatics student labs. Before you can use your Informatics DICE
+account, you need to set up a password. You can do this by going to
+'http://pp.inf.ed.ac.uk' and following the instructions you will find
+there. If you have any problems, simply reply to this message with a
+description of the problems you have encountered.
+
+For more information on your DICE account, please see:
+http://computing.help.inf.ed.ac.uk/new-users
+
+The Informatics support team.
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.

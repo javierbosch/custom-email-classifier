@@ -1,0 +1,59 @@
+sys-announce-bounces@inf.ed.ac.uk
+---------------
+Re: [sys-announce] Informatics Server Area - Cooling Failure
+---------------
+
+Dear all,
+
+Estates have been out and fixed the cooling problem. We are now in the 
+process of bringing machines back online.
+
+Regards,
+
+Alison
+
+++++++++++++++++++++++++++++++++++++++++++++++
+Alison Downie, User Support Manager
+School of Informatics, University of Edinburgh
+Room 7.10A, Appleton Tower
+11 Crichton Street, EH8 9LE
+
+Tel: 650 3095
+++++++++++++++++++++++++++++++++++++++++++++++
+
+On Mon, 2 Mar 2020, Tim.Colles@ed.ac.uk wrote:
+
+> Dear all,
+>
+> We are currently experiencing a cooling failure in the server areas of
+> the Forum. While this is being investigated as a precautionary measure
+> we are shutting down the GPU cluster nodes. If this does not prevent the
+> temperature from rising further we will then fairly shortly need to
+> start shutting down other servers as well. All services provided from
+> the Informatics Forum server room are therefore now at risk, so please
+> make sure to regularly save anything you are working on.
+>
+> Owners of servers in the self managed server room may want to consider
+> shutting down what they can themselves to help reduce the temperature
+> and avoid any damage. If necessary we may shut all these servers down
+> directly without further notice by turning off their power.
+>
+> Tim
+>
+> --
+> Tim Colles,
+> Deputy Head of Computing.
+> _______________________________________________
+> sys-announce mailing list
+> sys-announce@inf.ed.ac.uk
+> http://lists.inf.ed.ac.uk/mailman/listinfo/sys-announce
+>
+> -- 
+> The University of Edinburgh is a charitable body, registered in
+> Scotland, with registration number SC005336.
+>
+>
+_______________________________________________
+sys-announce mailing list
+sys-announce@inf.ed.ac.uk
+http://lists.inf.ed.ac.uk/mailman/listinfo/sys-announce

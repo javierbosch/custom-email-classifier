@@ -1,0 +1,15 @@
+inf1a-students-bounces@inf.ed.ac.uk
+---------------
+[Inf1a-students] Inf1a FP competition
+---------------
+Prizes are now posted at:
+    http://homepages.inf.ed.ac.uk/wadler/fp-competition-2019/
+The link is also available on Learn.  Cheers, -- P
+-- 
+
+.   \ Philip Wadler, Professor of Theoretical Computer Science,
+.   /\ School of Informatics, University of Edinburgh
+
+.  /  \ and Senior Research Fellow, IOHK
+
+. http://homepages.inf.ed.ac.uk/wadler/

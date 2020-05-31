@@ -1,0 +1,259 @@
+students-bounces@inf.ed.ac.uk
+---------------
+[Students] Talks tomorrow Lecturer/Senior Lecturer/Reader in Programming Languages for Trustworthy Systems
+---------------
+The talks for Lecturer/Senior Lecturer/Reader in Programming Languages for Trustworthy Systems will take place TOMORROW. Please note all talks are confidential and should not be shared out with the school. We will be using Blackboard Collaborate for these talks and please use the following link:
+
+https://eu.bbcollab.com/guest/97fca5b10d684ff8922e3367cb62628d 
+
+ 
+
+Feedback on the talks can be sent by email to Jane Hillston (Jane.Hillston@ed.ac.uk <mailto:Jane.Hillston@ed.ac.uk> ) or James Cheney (James.Cheney@ed.ac.uk <mailto:James.Cheney@ed.ac.uk> ) 
+
+ 
+
+If anyone wishes to talk with the candidates please contact their hosts who will be arranging an online schedule for them. 
+
+ 
+
+If anyone has any questions please just let me know and I will be more than happy to help. 
+
+ 
+
+Best wishes, 
+
+Sam 
+
+ 
+
+------------
+
+Research talks  
+
+ 
+
+9.00am: Liam O’Connor (host Michio Honda) 
+
+Biography: 
+
+Liam specialises in the intersection of programming languages and formal methods research. For four years he worked with the Trustworthy Systems group at CSIRO data61 in Australia, on projects such as the verified microkernel seL4, and the development of trustworthy file systems. For his doctorate, he designed the functional systems programming language Cogent, which includes a verification framework based around certifying compilation. Liam has also published in the area of dependently-typed programming and proving, and has other interests ranging from concurrency to software engineering. He currently works at the University of New South Wales. 
+
+ 
+
+Publications:
+
+http://liamoc.net/publications.html  
+
+ 
+
+Research talk:  
+
+A Tale of Two Semantics 
+
+For the last few years I have been designing Cogent, a purely functional language designed for implementation and formal verification of operating systems components. Given a Cogent program, the Cogent compiler generates efficient C code as well as a refinement proof that the C code is a correct implementation of a Cogent specification, by taking advantage of Cogent’s uniqueness type system.  In addition to providing a general overview of my research, including the Cogent project overall, this talk will focus on the formal semantics of Cogent and the notable proofs that comprise its refinement certificate, chiefly the formalisation of Wadler’s intuition that uniqueness type systems provide a purely functional view of mutable data. We accomplish this by assigning two semantics to the same syntax: one stateful, and one purely functional.  We prove preservation of the refinement relation that connects the two, guided by the types. A nice consequence of this is that by erasing one semantics from the refinement preservation proof, we get a type preservation proof for the other semantics. The resultant formalisation is cleaner than previous efforts, and naturally handles nested pointer structures.  The whole certificate is the basis of the Cogent verification framework in Isabelle/HOL, which has been used to formally verify key operations of a flash file system. 
+
+ 
+
+Teaching talks 
+
+The presentation should be in the form of a mock tutorial and be an introductory 15 minutes talk aimed at third year students on the topic of subtyping in programming languages, explaining what it means for one type to be a subtype of another and how to reason about subtyping relationships involving data structures such as records and functions.  You can explain in either the context of a functional language or an objectoriented language, in each case assuming the students are familiar with the fundamentals of such languages (they learn Haskell and Java in their first year). The presentation will be attended by students (possibly of different levels) and staff, and there will be five minutes afterwards to ask questions about the presentation and about the candidate's approach to teaching. 
+
+ 
+
+9.45am: Liam O’Connor  
+
+ 
+
+Research talks  
+
+ 
+
+10.15am Break  
+
+ 
+
+10.30am: Sam Lindley (host Stephen Gilmore) 
+
+Biography: 
+
+I design programming languages and programming language abstractions in order to enable the development of trustworthy systems. In the spirit of Robin Milner's inaugural LFCS lecture my research develops theory and applications in tandem. In parallel with building full-scale implementations (e.g. the Links web programming language, for which I have been principal developer since 2006) I study the meta theory of the underlying core calculi (e.g. in order to prove safety properties such as session fidelity, which guarantees that any well-typed Links program cannot violate the communication protocols denoted by the session types of the channels it uses). Specific areas that I am currently focused on include:    
+
+• Algebraic effects and effect handlers    
+
+• Session types for concurrent and distributed systems   
+
+• Embedded domain-specific languages    
+
+• Performance-portable code generation 
+
+I obtained my PhD from The University of Edinburgh in 2005. I have subsequently worked as a research fellow and senior research fellow at The University of Edinburgh, University of Strathclyde, and Imperial College London. I take up a position as associate professor at Heriot-Watt University in May 2020. My academic career has been supplemented by stints in industry at Red Snapper Ltd, Codeplay Ltd, and Contemplate Ltd as well as a postdoctoral internship at Microsoft. 
+
+ 
+
+Publications: 
+
+https://homepages.inf.ed.ac.uk/slindley/   
+
+ 
+
+Research talk:  
+
+Effect handler oriented programming 
+
+Real world effects are pervasive, e.g.: concurrency, distribution, exceptions, I/O, and nondeterminism. Effect handlers are a general programming feature that can be used for modularly implementing all of these effects and more. They were introduced by theoretical computer scientists (Plotkin and Pretnar) studying the theory of algebraic effects, but now show promise as a practical programming tool. Interest in effect handlers in industry is growing. For instance, Facebook's React Fiber, the core of the popular React UI library is directly inspired by effect handlers. Moreover, Uber's Pyro tool for probabilistic programming and GitHub's Semantic library for parsing, analysing, and comparing source code (currently used for code navigation on over 4.5 million public Python repositories) both make essential use of effect handlers. I will give an overview of effect handler oriented programming by means of a collection of examples and present my research programme for making effect handlers scale. I will also briefly outline some of my contributions to the theory and practice of effect handler oriented programming as well as discussing challenges and future opportunities. 
+
+ 
+
+11.15am: Danel Ahman (host John Longley) 
+
+Biography: 
+
+Dr Danel Ahman holds a Marie Skłodowska-Curie Individual Research Fellowship at the Faculty of Mathematics and Physics at the University of Ljubljana. His research is centred around studying computational effects, so as to make programming with 
+
+them safer and more predictable. He received his PhD in 2017 from the School of Informatics at the University of Edinburgh. During his PhD studies, he was twice a Research Intern at Microsoft Research. Since then, he has worked as a Postdoctoral Researcher at Inria Paris and at the University of Ljubljana, and he has also been a Consulting Researcher at Microsoft Research Redmond. He is a frequent collaborator on the Microsoft-led Project Everest (which aims to build and deploy a verified HTTPS stack), having contributed to the design and evolution of the effectful dependently typed programming language F*. 
+
+ 
+
+Publications: 
+
+https://danel.ahman.ee/#publications  
+
+ 
+
+Research talk:  
+
+Towards safer programming with computational effects 
+
+Computational effects, such as exceptions, input-output, mutable state, nondeterminism, randomness, and concurrency, are an important component of general-purpose programming languages, whether they adopt functional, imperative, object-oriented, or other programming paradigms. Even pure languages exhibit computational effects at the top level, so to speak, by interacting with their external environment. While undeniably useful, computational effects unfortunately also tend to be the source of many bugs in programs. Often these problems arise from the type systems of programming languages not being precise enough about what and how effects happen, leading to, e.g., buffer overflows, accessing already closed files, or causing deadlocks in communication. But problems also arise when programming languages do not offer appropriate abstractions for the tasks at hand, such as the infamous callback hells in asynchronous programming. In this talk, I will discuss how my research addresses such problems through a combination of (i) studying the semantic foundations of effectful programming; (ii) investigating strong typing disciplines to govern how computational effects are used in programs; and (iii) developing new programming abstractions that guide programmers to write safer and more predictable code, even without a strong type system. Focussing on the latter, I will discuss some shortcomings of the conventional approaches to modelling and programming with external effects and resources, such as for accessing the file system. I will then motivate runners of algebraic effects as a mathematically natural model of such resources, and show how to turn them into to a neat programming concept that models top-level external resources, as well as allows programmers to modularly define their own intermediate "virtual machines", while simultaneously guaranteeing the linear use of resources and execution of finalisation code. 
+
+ 
+
+12.00pm: Jean Pichon-Pharabod (host Ian Stark)  
+
+Biography: 
+
+I am interested in clarifying and mathematising the main interfaces on which modern computer systems rely: C, assembly languages, JavaScript, WebAssembly, etc, and on making them more accessible and reliably usable. I am currently a postdoc at the University of Cambridge, working with Peter Sewell on the Rigorous Engineering for Mainstream Systems project.  I work on verifying Google's Hafnium exokernel, by developing a separation logic for ARM concurrency, and by defining models of system-level features like page tables and exceptions.  I am also interested in improving programming education by transferring results from programming language research. Previously, I have worked on extending WebAssembly and JavaScript with relaxed shared-memory concurrency; on modelling instruction fetching on ARM; on an executable test oracle for C; on a programmer-friendly operational model of concurrency on ARM; and on concurrent separation logics for C and x86. My PhD, in the same team, was on the "out-of-thin-air problem", defining a usable envelope around the behaviour arising from hardware and compiler optimisations in languages with relaxed shared-memory concurrency, using an unusual combination of event structures and operational semantics. 
+
+ 
+
+Publications: 
+
+https://www.cl.cam.ac.uk/~jp622/#publications   
+
+ 
+
+Research talk:  
+
+Making sense of relaxed shared-memory concurrency 
+
+About 60 years of clever design tricks have made computers really fast and powerefficient.  However, the combined effect of these accumulated tricks is at best confusing, when not completely unclear.  I will focus on one pervasive aspect: shared memory concurrency, and how these tricks lead to confusingly relaxed behaviour.  Currently, no mainstream programming language features a satisfactory "memory model" of what behaviour arises from hardware and compiler optimisations.  I will describe the approach developed in my thesis, which uses an unusual combination of event structures and operational semantics.  I will also describe work on making some critical interfaces: C and ARM assembly, more accessible, through operational semantics and separation logics. 
+
+ 
+
+12.45pm Break  
+
+ 
+
+Teaching talks 
+
+The presentation should be in the form of a mock tutorial and be an introductory 15 minutes talk aimed at third year students on the topic of subtyping in programming languages, explaining what it means for one type to be a subtype of another and how to reason about subtyping relationships involving data structures such as records and functions.  You can explain in either the context of a functional language or an objectoriented language, in each case assuming the students are familiar with the fundamentals of such languages (they learn Haskell and Java in their first year). The presentation will be attended by students (possibly of different levels) and staff, and there will be five minutes afterwards to ask questions about the presentation and about the candidate's approach to teaching. 
+
+ 
+
+1.30pm Sam Lindley 
+
+ 
+
+2.00pm Danel Ahman 
+
+ 
+
+2.30pm Jean Pichon-Pharabod 
+
+ 
+
+3.00pm Break 
+
+ 
+
+3.10pm Elizabeth ‘Emily’ Polgreen 
+
+ 
+
+3.40pm Klaus v. Gleissenthall 
+
+ 
+
+Research talks 
+
+ 
+
+4.10pm Break 
+
+ 
+
+4.15pm: Elizabeth Polgreen (host Vaishak Belle) 
+
+Biography: 
+
+Dr Elizabeth Polgreen is a postdoctoral researcher at the University of California, Berkeley, working with Professor Sanjit Seshia. She has a PhD in Computer Science from the University of Oxford and a BA and MEng in Electrical and Electronic Engineering from the University of Cambridge. During her PhD, she completed two internships at Amazon Web Services where she worked on applying verification tools to hypervisors. Prior to her PhD she worked as an electronics and software engineer for a design consultancy. Her research focuses on program synthesis algorithms and their applications. 
+
+ 
+
+Publications: 
+
+https://dblp.uni-trier.de/pers/hd/p/Polgreen:Elizabeth  
+
+ 
+
+Research talk: 
+
+Synthesis is the SAT 
+
+In this talk I will argue that 2nd order synthesis will become as widely applicable and effective as propositional satisfiability solving has become over the last two decades. I will showcase CounterExample Guided Inductive Synthesis modulo Theories (CEGIS(T)), an algorithm that solves a broader class of second order synthesis problems more effectively by increasing the generality of the information exchanged between the verifier and the component that forms conjectures for candidate solutions. 
+
+ 
+
+5.00pm: Klaus v. Gleissenthall (host Ohad Kammar)  
+
+Biography: 
+
+Klaus v. Gleissenthall is a postdoctoral scholar at the University of California, San Diego where he works with Ranjit Jhala and Deian Stefan. Klaus research interests lie at the intersection of Programming Languages, Verification and Security, focusing on providing end-to-end assurance across the stack. Klaus completed his Ph.D. at the Technical University of Munich, where he was advised by Andrey Rybalchenko. During his Ph.D., Klaus also spent time at Microsoft Research Cambridge, both as an intern and as a visitor. Klaus has received a Microsoft Research Scholarship and was awarded the distinction summa cum laude for his Ph.D. research. 
+
+ 
+
+Publications: 
+
+http://goto.ucsd.edu/~gleissen/  
+
+ 
+
+Research talk:  
+
+Verifying Security Across Hardware & Software 
+
+To keep our data secure, we have to make sure hat safety-critical code operates correctly, for example by verifying its correctness through mathematical proof. Even though such verified infrastructure has seen considerable success and real-world deployment, correctness guarantees today focus on software and rely on simplified assumptions about the hardware. Unfortunately, real-world hardware is full of fastpaths and performance optimizations like speculative execution. As a result, the simple assumptions about the hardware on which our proofs rely often don't hold in the real world causing even verified software to leak.  My goal is to provide end-to-end guarantees for real-world systems by validating assumptions across the stack. I will discuss my approach to proving that hardware doesn't leak through timing side-channels, how to model speculative execution semantics and finally how to automatically fix speculative execution based vulnerabilities.
+
+ 
+
+------
+
+Samantha Inch
+
+Staffing Support Manager
+
+HR Office
+
+Room 5.39
+
+University of Edinburgh, Informatics Forum
+
+10 Crichton St | Edinburgh | EH8 9AB
+
+Tel:  +44 131 650 9006
+
+ 
+
+The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336.
+
+ 

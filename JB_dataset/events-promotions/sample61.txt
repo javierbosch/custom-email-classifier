@@ -1,0 +1,60 @@
+inf1a-students-bounces@inf.ed.ac.uk
+---------------
+[Inf1a-students] Are you enjoying CL? - CompSoc STMU
+---------------
+
+
+
+
+
+
+Dear Inf1A Students
+
+ 
+
+On behalf of CompSoc, I would like to invite you to our next Student Tech Meetup (STMU) which will take place in Informatics Forum G. 07 on Wednesday 30 October at 6PM. If you enjoy CL part of the course, I believe you'd find part 2 interesting in particular as it introduces applications of formal logic. 
+
+ 
+
+The abstracts of the whole event are as follows:
+
+	Part 1: Facebook – Crush Your Code (Ticket) <https://edinburghurtechworkshop.splashthat.com/?fbclid=IwAR2FWUUYvkuDuSONvfD5RKVxHE5QXf0OuYNQvFd5nwXqLIzX772pF7kt6Mc> 
+
+		Come learn how to put your best foot forward at this Technical Interview Workshop by Facebook.This presentation, delivered by Facebook’s Software and Front End Engineers, will cover:
+
+		- How to walk through an algorithm problem
+
+		- How to brainstorm solutions
+
+		- How to discuss the problem with your interviewer
+
+		- How to write (and test) code on a whiteboard
+
+		You'll also have the opportunity to hear from our engineers from both Software and Front End Engineering! To find out more about these areas.
+
+	
+	
+
+	Part 2: Dr. Petros Papapanagiotou – Formal reasoning: from maths to healthcare and beyond
+
+		Edinburgh University has over 50 years of history in automated reasoning and theorem proving research, with many breakthrough contributions in these fields. But why do we need formal logic in our lives? How does it link to software development, safety, trust, healthcare, manufacturing, or the Internet of Things? I will give an overview of logic-based reasoning, describe methods and techniques, and showcase some of our applied research on correct-by-construction workflow models for smart collaboration.
+
+ 
+
+Additionally, we will also be serving pizza and drinks. The Facebook event page can be found here <https://www.facebook.com/events/748822078879024/> .
+
+ 
+
+I hope to see you at the event.
+
+ 
+
+Thanks,
+
+
+	 <https://comp-soc.com/> 	Dee Yeum
+Vice President | CompSoc
+University of Edinburgh
+	
++44 (0)7475 232777
+vicepresident@comp-soc.com <mailto:vicepresident@comp-soc.com> 	

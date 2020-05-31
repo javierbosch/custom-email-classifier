@@ -1,0 +1,64 @@
+ug-students-bounces@inf.ed.ac.uk
+---------------
+[ug-students] UKIEPC/ICPC Programming Contest
+---------------
+Dear students,
+
+the CompSoc <https://comp-soc.com/>  and the School of Informatics are hosting again this year UKIEPC <http://ukiepc.info/2019/> , the UK & Ireland Programming Contest.
+
+I am busy, give me the short version please.
+
+If you are a student, you enjoy solving programming problems, and you are free on October 19, join us at AT-6.06 for the UKIEPC programming contest.
+
+
+Also, there will be snacks and drinks. Probably.
+
+
+Hey, I like programming and snacks. Tell me more.
+
+
+UKIEPC is a distributed programming contest for university students and is part of the prestigious ICPC <https://icpc.baylor.edu/>  series of contests. It is physically hosted at several UK and Ireland Universities, Edinburgh being one of them. More than a hundred teams from across the region are given the same set of programming challenges, ranging from very easy to insanely difficult. Whether you are a beginner or an expert, there will be a problem for you. 
+
+
+Briefly, the rules of the contest <http://ukiepc.info/2019/#rules>  are:
+- Teams can have up to three members.
+- Contestants are allowed to use only the PCs provided by the organisers and have access only to language and standard library documentation.
+- Solutions have to be in C, C++, Java, or Python. If they produce the correct output for each test input, they are considered correct.
+
+That sounds fun! How do I join you?
+
+
+The contest will be on Saturday October 19, probably from 11am to 4pm. Unless something changes, the UoE contest site will be Appleton Tower 6.06. You have to register <https://icpc.baylor.edu/regionals/finder/ukiepc-2019>  your team by October 16. 
+
+
+Since the contest is so long, we will try to provide snacks and drinks but we cannot promise that yet.
+
+
+I will be there! What do I need to do now?
+
+- Select your team mates.
+- Check your ICPC eligibility <https://icpc.baylor.edu/regionals/rules> . In a nutshell, if you started your post-secondary studies in 2015 or later or you were born in 1996 or later, you are eligible. You can still compete in UKIEPC if you are not eligible but we will prioritise eligible teams.
+- Register <https://icpc.baylor.edu/regionals/finder/ukiepc-2019> . We will only accept 20 to 25 teams, so don't wait until the last minute to register.
+- Practice on problems from past competitions <https://icpcarchive.ecs.baylor.edu/> , on similar problems <https://open.kattis.com/> , or take part in the Nordic countries warmup contest this Saturday <https://open.kattis.com/contests/ncpc2019warmup> .
+
+
+What do I get if I win?
+
+
+The top teams from Edinburgh will represent the University to NWERC, the Northwestern Europe Regional Contest. The best teams from NWERC will compete in the 2020 ICPC World Finals in Moscow against the best student programmers in the world. 
+
+
+Cheers,
+Pavlos
+
+
+-- 
+Pavlos Petoumenos
+Senior Researcher
+School of Informatics
+The University of Edinburgh
+
+Informatics Forum 1.02
+10 Crichton Street
+Edinburgh, EH8 9AB
+Scotland, UK 

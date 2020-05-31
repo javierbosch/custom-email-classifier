@@ -1,0 +1,23 @@
+inf1a-students-bounces@inf.ed.ac.uk
+---------------
+[Inf1a-students] CL10
+---------------
+There was a name clash between the regex and propositional calculus code.
+
+New files now on learn
+
+use CL10prop.hs for the propositional logic and CL10regex.hs for the regex and machines.
+
+Apologies,
+
+Michael
+
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+_______________________________________________
+Inf1a-students mailing list
+Inf1a-students@inf.ed.ac.uk
+http://lists.inf.ed.ac.uk/mailman/listinfo/inf1a-students

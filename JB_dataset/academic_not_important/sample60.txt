@@ -1,0 +1,23 @@
+ug1-students-bounces@inf.ed.ac.uk
+---------------
+[ug1-students] InfPALS session tomorrow
+---------------
+Dear Students,
+
+ 
+
+As the exam season is coming, InfPALS will be focusing on revision to boost your knowledge and help you do well in Inf1 – Introduction to Computation.
+
+ 
+
+This week on  <x-apple-data-detectors://0> Tuesday at 12:10 <x-apple-data-detectors://0> , we’ll be focusing on revision of FSM, DFA and Regex. If you feel behind on these topics, then this session is perfect to help you catch up!
+
+ 
+
+See you at the session!
+
+ 
+
+All the best,
+
+InfPALS

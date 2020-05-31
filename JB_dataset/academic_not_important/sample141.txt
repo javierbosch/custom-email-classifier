@@ -1,0 +1,16 @@
+students-bounces@inf.ed.ac.uk
+---------------
+[Students] Part time work available
+---------------
+Oodls is looking for a part-time UX/UI designer, preferably somebody with experience developing front-end in React. For the application, make a proposal to describe how you would improve our website: https://oodls.io/ while thinking about user flow speed and usability. 
+
+You can read the job description on https://jobs.smartrecruiters.com/oodls/743999692609417-freelance-ux-ui-designer?fbclid=IwAR1s3cRISye73ge2mODxZDvyD96Q8-YazGrW6_W8dhDBM4q9K0N1PedZSHQ and submit your proposals there after clicking “I’m interested”, filling out the form, and pasting your proposal under the “Message to Hiring Manager” section.
+
+We are preferably looking for someone with industry experience but open to ALL levels of talent.
+_______________________________________________
+students mailing list
+students@inf.ed.ac.uk
+http://lists.inf.ed.ac.uk/mailman/listinfo/students
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.

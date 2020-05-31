@@ -1,0 +1,29 @@
+inf1a-students-bounces@inf.ed.ac.uk
+---------------
+[Inf1a-students] Tutorial 6 Update
+---------------
+Dear Inf1a-students,
+
+ 
+
+ 
+
+please get the updated version of fp-tutorial6 from Learn or see attached. 
+
+ 
+
+This version includes some code needed for QuickCheck to run smoothly at the
+
+end of the file, along with specialised predicates on QuickCheck properties. 
+
+Related conversation on piazza: https://piazza.com/class/jzsdkcmg6uz3hx?cid=576 <https://piazza.com/class/jzsdkcmg6uz3hx?cid=576> . 
+
+Note the indentation on line 359, it should have two spaces before arbitrary. 
+
+ 
+
+Best wishes
+
+Irene
+
+ 

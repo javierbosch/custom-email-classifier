@@ -1,0 +1,21 @@
+learn@ed.ac.uk
+---------------
+Daily Notifications
+---------------
+Announcements 
+MATHBASE <https://www.learn.ed.ac.uk/webapps/login/?action=login&new_loc=%2Fwebapps%2Fblackboard%2Fexecute%2Fnautilus%2FnotificationResponse%3Faction%3Ddispatch%26userId%3D_349128_1%26courseId%3D_71846_1%26contentId%3D%26sourceId%3D_417884_1%257Cblackboard.data.announcement.Announcement%26parentId%3Dnull%26sourceType%3DAN%26eventType%3DAN_AVAIL%26disable_promiscuous_decodes%3Dtrue>  
+Calculus and its Applications (2019-2020)[SEM2] (MATH080582019-0SV1SEM2) 
+MATHBASE <https://www.learn.ed.ac.uk/webapps/login/?action=login&new_loc=%2Fwebapps%2Fblackboard%2Fexecute%2Fnautilus%2FnotificationResponse%3Faction%3Ddispatch%26userId%3D_349128_1%26courseId%3D_72058_1%26contentId%3D%26sourceId%3D_417881_1%257Cblackboard.data.announcement.Announcement%26parentId%3Dnull%26sourceType%3DAN%26eventType%3DAN_AVAIL%26disable_promiscuous_decodes%3Dtrue>  
+Proofs and Problem Solving (2019-2020)[SEM2] (MATH080592019-0SV1SEM2) 
+Gradebook 
+Week 5 Homework is overdue: Tuesday, 25 February 2020 21:00:00 GMT 
+Calculus and its Applications (2019-2020)[SEM2] (MATH080582019-0SV1SEM2) 
+Other new content 
+Week 5 Homework with Solutions <https://www.learn.ed.ac.uk/webapps/login/?action=login&new_loc=%2Fwebapps%2Fblackboard%2Fexecute%2Fnautilus%2FnotificationResponse%3Faction%3Ddispatch%26userId%3D_349128_1%26courseId%3D_71846_1%26contentId%3D_4559661_1%26sourceId%3D_4559661_1%257Cblackboard.data.content.Content%26parentId%3Dnull%26sourceType%3DCO%26eventType%3DCO_AVAIL%26disable_promiscuous_decodes%3Dtrue>  added 
+Calculus and its Applications (2019-2020)[SEM2] (MATH080582019-0SV1SEM2) 
+Week 6 Worksheet with Solutions <https://www.learn.ed.ac.uk/webapps/login/?action=login&new_loc=%2Fwebapps%2Fblackboard%2Fexecute%2Fnautilus%2FnotificationResponse%3Faction%3Ddispatch%26userId%3D_349128_1%26courseId%3D_71846_1%26contentId%3D_4579210_1%26sourceId%3D_4579210_1%257Cblackboard.data.content.Content%26parentId%3Dnull%26sourceType%3DCO%26eventType%3DCO_AVAIL%26disable_promiscuous_decodes%3Dtrue>  added 
+Calculus and its Applications (2019-2020)[SEM2] (MATH080582019-0SV1SEM2) 
+Week 7 Notes: Congruence <https://www.learn.ed.ac.uk/webapps/login/?action=login&new_loc=%2Fwebapps%2Fblackboard%2Fexecute%2Fnautilus%2FnotificationResponse%3Faction%3Ddispatch%26userId%3D_349128_1%26courseId%3D_72058_1%26contentId%3D_4578421_1%26sourceId%3D_4578421_1%257Cblackboard.data.content.Content%26parentId%3Dnull%26sourceType%3DCO%26eventType%3DCO_AVAIL%26disable_promiscuous_decodes%3Dtrue>  added 
+Proofs and Problem Solving (2019-2020)[SEM2] (MATH080592019-0SV1SEM2) 
+ <https://www.learn.ed.ac.uk/images/ci/misc/ultra/emails/blackboard-logo.png> 	
+Manage your notification settings <https://www.learn.ed.ac.uk/webapps/blackboard/execute/nautilus/notificationSettingsCaret?action=display&user_id=_349128_1>  

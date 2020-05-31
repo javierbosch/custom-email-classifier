@@ -1,0 +1,38 @@
+sys-announce-bounces@inf.ed.ac.uk
+---------------
+[sys-announce] staffmail upgrade 25th March
+---------------
+
+Please note that staffmail will be unavailable tomorrow (Wednesday 25th 
+March) from 05:00 until 10:00. It is then to be considered at risk until 
+09:00 on Thursday 26th March.
+
+The reason for this downtime is to upgrade some storage hardware.
+
+This will not affect Professional Services staff but will apply to the 
+majority of Academic and Teaching staff.
+
+For further details, see the IS alert:
+
+https://alerts.is.ed.ac.uk/index.cfm?fuseaction=view_alert&alert_id=9190
+
+Regards,
+
+Alison
+
+++++++++++++++++++++++++++++++++++++++++++++++
+Alison Downie, User Support Manager
+School of Informatics, University of Edinburgh
+Room 7.10A, Appleton Tower
+11 Crichton Street, EH8 9LE
+
+Tel: 650 3095
+++++++++++++++++++++++++++++++++++++++++++++++
+_______________________________________________
+sys-announce mailing list
+sys-announce@inf.ed.ac.uk
+http://lists.inf.ed.ac.uk/mailman/listinfo/sys-announce
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.

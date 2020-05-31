@@ -1,0 +1,56 @@
+learn@ed.ac.uk
+---------------
+Calculus and its Applications (2019-2020)[SEM2]: Mid-Course Feedback -- Response
+---------------
+Dear students,
+
+I have gone through the Mid-Course Feedback submitted through the two surveys I had created on Learn; many thanks to those of you who completed them. While the response rates were somewhat low — 25% on Lectures, and 20% on Workshops — I would like to highlight common themes among the responses I have received:
+
+Lectures
+
+A vast majority of you highlighted TopHat as one of the most beneficial aspects of Lectures; in particular, there was widespread agreement that TopHat questions, and the opportunity to discuss answers with peers, tested understanding and helped eliminate misconceptions about the material. Also, TopHat was seen as making Lectures more interactive.
+
+Lectures were also found to highlight fundamental concepts from the material and provide an in-depth explanation of key results, thus helping solidify the assigned reading.
+
+Another positive aspect that was mentioned repeatedly was the availability of live streaming and recording of Lectures.
+
+Those observations are in line with our teaching philosophy for the course, which is based on a “flipped” classroom setting — all Lecturers on the course have been strongly encouraged to highlight key concepts instead of aiming to cover the material in full, and to introduce a substantial component of peer instruction through TopHat; I will reinforce that message to Lecturers for the forthcoming weeks. Live streaming was introduced as a relative innovation which will probably be retained for future years due to its popularity.
+
+Suggestions for improvement mostly revolved around teaching styles — it was felt that there was sometimes an over-reliance on the textbook, also with regard to how slides had been prepared, as well as a lack of interactivity; correspondingly, there seems to be a strong preference for motivating examples, exam-type problems, and challenging TopHat questions and less “re-lecturing” of assigned reading.
+
+Other negative aspects concerned the pace of delivery, with it being perceived as too fast or too slow, and the organisation of the material, with the course being heavily front-loaded and the amount of assigned reading being very substantial in early weeks.
+
+I acknowledge your concerns; in a course with multiple Lecturers, teaching styles will invariably differ. Given the size of the cohort, it seems unavoidable that some of you will prefer a certain style over another. It should also be noted that some of the material is highly conceptual and hence very suited to instruction through TopHat, while other topics are more computational and are hence delivered more naturally in a “traditional” fashion. While I encourage a certain teaching philosophy for the course, see above, it is up to individual Lecturers to decide how to convey the given material to you. Nonetheless, I will reinforce the importance of using TopHat as much as possible, and of formulating appropriate questions, to upcoming Lecturers.
+
+Also, I realise that the course is front-loaded; the reasoning behind us delivering the introductory chapters over the first few weeks is the wide range in backgrounds of the student cohort — our coverage of those chapters is intended to guarantee a certain common level from which we can begin covering some of the more challenging topics that are likely to be novel to most of you. Still, I will re-consider the organisation of the material for future sessions.
+
+Finally, I am aware that the final examination is on the radar already for many of you; however, I firmly believe that an excessive focus on exam-type problems does not further our joint aim — your learning. Please be assured that I will make available to you past exam papers, with solutions, well before the end of the semester to give you an indication of what the examination may look like, and to aid with your revision. (On a related note, please remember that all TopHat questions are opened for review immediately after Lectures.)
+
+Workshops
+
+An overwhelming majority of you seemed to find Workshops valuable and worthwhile; you highlighted the collaborative learning style, with ample opportunities for discussion with peers and tutors; the guidance received from tutors, which you seem to find very helpful by and large, in particular when it comes to trying different approaches; the opportunity to consolidate and clarify the material by working on questions of varying difficulty; and the feedback given by tutors on written Homework, especially when it is face-to-face.
+
+Other positives included the tutor-to-student ratio and the size of Workshop groups, and the availability of worked solutions to Worksheets.
+
+Again, those observations are in line with my hopes and expectations; I have shared them with your tutors.
+
+There were few negative comments; in particular, some of you noted a lack of engagement by tutors — with tutors being distracted, marking during Workshops, or even being patronising to students — or remarked on the level of preparedness and quality of explanation from tutors.
+
+Other negative aspects concerned a difficult dynamic in the group, with students not willing to collaborate and engage, or not discussing the material but, rather, chatting about personal matters.
+
+Finally, there were comments on the Worksheets themselves, in particular on there being too few or too many questions, on the first question typically being unduly time-consuming, and on some of the material not being examinable.
+
+Likewise, I have forwarded your concerns to tutors: needless to say, my strong expectation is for them to be proactive and focused in Workshops, and to treat you with dignity and respect. While I realise that Workshop groups sometimes "gel" and sometimes do not, I have encouraged tutors to try and steer their groups away from banter and towards constructive engagement with the material. I have also reiterated to tutors that proper preparation is essential for ensuring that you benefit from Workshops, and have instructed them to read through the Worksheets and the corresponding solutions on Learn beforehand.
+
+Regarding the Worksheets, I would again note that the wide variation in your backgrounds makes it difficult to cater to everyone; however, you should work through the solutions once they have posted if you do not manage to attempt all questions in Workshops. Similarly, if you run out of questions, you may want to attempt some of the Exercises from the textbook highlighted in the Study Guide. The first question is, indeed, often the longest one; however, that question typically highlights an important concept that all of you should master properly. Finally, questions on non-examinable material are intended to broaden your mathematical horizons — Workshops seem to me the perfect venue for going beyond the very strict syllabus of the course.
+
+I hope to have addressed most of your feedback in the above; however, please do not hesitate to 
+
+contact me with any questions or concerns.
+
+Best,
+
+Nikola
+
+
+

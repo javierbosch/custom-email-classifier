@@ -1,0 +1,41 @@
+learn@ed.ac.uk
+---------------
+Proofs and Problem Solving (2019-2020)[SEM2]: Welcome to Proofs and Problem Solving!
+---------------
+Dear Students,
+
+Welcome to Proofs and Problem Solving!  My name is Jonas Azzam. Along with Chris Sangwin (whom you might remember from ILA), we are your lecturers for this course. This is a fun and challenging class where you will get to learn many different problem solving techniques, sample several different topics from mathematics, and learn to write proofs. I hope you all enjoy it.
+
+There are a couple of important announcements I'd like to make about the workshops, notes, textbook, and online reading test due next Tuesday!
+
+1) Please make sure you have signed up for a workshop. The first week's workshop on Monday 13th January is extremely important, as we will discuss the writing expectations for homeworks and exams: these will be unlike anything you have seen in previous mathematics courses, and will set the stage for your future mathematics coursework at here at the UoE.  Please make every effort now, if you have not signed up for a workshop group, to find an available slot; you will have received an email from Louise Durie, with the link to sign up. If you are having trouble for any reason with the process, please email Louise (L.Durie@ed.ac.uk) with your issue. 
+
+When you've signed up for a workshop, please write down or remember your group number and bring it with you to the first workshop so we can know which table to seat you. 
+
+
+2) Each week there will be course notes posted on Learn in the "Course Notes" folder. The lectures, reading tests, and exam will be based on these. They are based on the official course textbook, A Concise Introduction to Pure Mathematics, Fourth Edition, which is a required text for the class. To prepare each week, first read the notes, and if you need some extra help, read the corresponding chapters from the textbook (which are outlined in the course structure document on Learn)
+
+
+3) Each week there will be an online reading test on the material to be covered in lecture (one will be released Friday January 9th at noon and is due 23:59pm Tuesday January 14th, the day before classes even start). In order to complete the test, you will need to have read the week's notes.
+
+
+The links to all the reading tests are provided in a link called "Reading Tests" on the Learn webpage. After clicking this link, a new page should open, but if not, you may have to check your web browser's security settings and whether it is banning pop-ups (and whether you can turn them off for the Learn page). The new page will have a list of all the tests corresponding to each week.
+
+Each week's reading test will be made available at noon the Friday before, and students have until 23:59 on the following Tuesday to do it. You will only have an hour to complete the quiz once you start and only one attempt, so it is important to read the material first before attempting as there is limited time. Be sure to click "submit" after you have answered all the questions.
+
+If you have any issues or questions about the reading tests, please get in touch with Chris Sangwin (C.J.Sangwin@ed.ac.uk). Make sure to attempt the quiz early enough in the week in case you run into technical trouble so it can be resolved with time left for you to complete it.
+
+
+See you all next week, and good luck.
+
+Best,
+Jonas
+
+ 
+
+
+
+
+
+
+

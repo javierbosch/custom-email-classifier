@@ -1,0 +1,74 @@
+mathworks@go.mathworks.com
+---------------
+MATLAB & Simulink Academic Events and Resources | March 2020
+---------------
+Machine Learning Challenges | Data Science | From Classroom to Career	 
+To view this email as a web page, click here <http://app.go.mathworks.com/e/es?s=646005169&e=7352654&elqTrackId=3e0c3ae549194cde96eaaf49863db599&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1> . 	
+ <http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/%7bceaebcd7-cad8-47c9-b28a-aedcb093661f%7d_im_mw-logo_match-site.jpg> 	March 2020	 
+ 	 
+ 	  	 
+ <https://uk.mathworks.com/campaigns/offers/common-machine-learning-challenges.html?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=329335145821432fbe244108f859f255&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978> 	 
+ 	 
+ 	 Machine Learning Challenges: Choosing the Best Classification Model and Avoiding Overfitting	  	 
+Determining the most appropriate classification model and diagnosing and correcting for overfitting are foundational machine learning skills. Learn about the strengths of the most common classification models and how to correct and prevent overfitting with MATLAB.	 
+Read interactive white paper <https://uk.mathworks.com/campaigns/offers/common-machine-learning-challenges.html?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=e962df22ad154dc0bd573bbedd93a007&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978> 	 
+ 	 
+  	
+ 	 MathWorks Minidrone Competition UK	 
+ 	 
+Want to understand the approach of model-based design using Simulink? The MathWorks Minidrone Competition UK is now open. This competition gives teams a chance to learn how to design and build flight control algorithms for Minidrones using Simulink.	 
+ <https://uk.mathworks.com/academia/student-competitions/minidrones/matlab-expo-uk-2020.html?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=82435a91f4b74d0fb4fa73949c690003&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978> 	 
+Learn more <https://uk.mathworks.com/academia/student-competitions/minidrones/matlab-expo-uk-2020.html?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=1715e8a3c26044a5b9bc52e7a7f72cd0&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978> 	 
+ 	 
+ 	 
+ 	 Webinars	 
+ 	 
+ <https://uk.mathworks.com/company/events/webinars/upcoming/cpu-fpga-and-io-solutions-2983521.html?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=a8c6b2c1958a4f58b6c59964a4317a42&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978> 	 18 March	 
+CPU, FPGA, and I/O Solutions for Real-Time Simulation and Testing with Simulink	 Register <https://uk.mathworks.com/company/events/webinars/upcoming/cpu-fpga-and-io-solutions-2983521.html?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=5ebbb185815e45e08b4f3ec60bdc4d48&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978> 	 
+ 	 
+19 Mar	 Reinforcement Learning: Leveraging Deep Learning for Controls	 » Register <https://uk.mathworks.com/company/events/webinars/upcoming/reinforcement-learning-leveraging-deep-learning-for-controls-2983660.html?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=aa03cfadcb4347b09cbcb13817d77e9d&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978> 	 
+24 Mar	 Deep Learning for Radar and Wireless Communications	 » Register <https://uk.mathworks.com/company/events/webinars/upcoming/deep-learning-for-radar-and-wireless-communications-2983900.html?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=1d434970070b49a7b8887ef86c3962be&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978> 	 
+31 Mar	 Deep Learning for Speech and Audio Processing with NVIDIA GPUs	 » Register <https://uk.mathworks.com/company/events/webinars/upcoming/deep-learning-with-nvidia-gpus-2983989.html?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=954738e15a97441c8c9011fcf754ca59&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978> 	 
+» View all upcoming webinars <https://uk.mathworks.com/company/events/webinars/upcoming.html?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=7b679d2a0511412da0087f7187efdf1d&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978>  	
+ 	 
+ 	 Featured Resources	 
+ 	 
+ <https://blogs.mathworks.com/racing-lounge/2019/12/10/whats-new-in-automated-driving-in-matlab-and-simulink/?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=fdb5f594eba3436ea68ca6188605531f&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978&elqcst=272&elqcsid=6674> 	 What's New in Automated Driving in MATLAB and Simulink?
+Check out automated driving highlights, namely the 3D simulation features that can be a great help when designing for perception systems and controls algorithms for automated driving or active safety.	 
+Learn more <https://blogs.mathworks.com/racing-lounge/2019/12/10/whats-new-in-automated-driving-in-matlab-and-simulink/?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=6caa3cec33364c73a2afb1587f7c7525&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978&elqcst=272&elqcsid=6674> 	 
+ 	 
+ <https://blogs.mathworks.com/racing-lounge/2019/10/23/where-are-they-now-roni-deb-ather-energy/?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=c4e24eeba1b0493da099db50ab510913&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978&elqcst=272&elqcsid=6674> 	 Where Are They Now? From Student Competition to Career at Ather Energy
+Hear first-hand from a SRM University student on his journey from the Formula Student team to a career at Ather Energy.	 
+Read blog <https://blogs.mathworks.com/racing-lounge/2019/10/23/where-are-they-now-roni-deb-ather-energy/?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=d3036d1bd6f143408d7e3db3de686304&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978&elqcst=272&elqcsid=6674> 	 
+ 	 
+ <http://app.go.mathworks.com/e/er?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&s=646005169&lid=21567&elqTrackId=5dee99da381b4085a17e1cc4ab4a9001&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqcst=272&elqcsid=6674> 	 How to Call MATLAB from Python
+See how to call MATLAB code from Python using a sentiment analysis example.	 
+Watch video <http://app.go.mathworks.com/e/er?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&s=646005169&lid=21567&elqTrackId=bd7859233767465b98821185b7cb13d2&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqcst=272&elqcsid=6674> 	 
+ 	 
+ 	 
+ 	 Training Opportunities	 
+ 	 
+ <http://images.go.mathworks.com/EloquaImages/clients/TheMathworksInc/%7B560e12fd-a8a2-4869-8ed5-ecfb425c375f%7D_im_thumb_2020-training-catalog-moe.jpg> 	» Machine Learning Onramp <https://uk.mathworks.com/learn/tutorials/machine-learning-onramp.html?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=94c2570b18fb48d9827ff32a6b59d516&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978> 
+» Simulink Onramp <https://uk.mathworks.com/learn/tutorials/simulink-onramp.html?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=d786bf682fae401d994376473e7eeddc&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978> 	 
+» View all self-paced online training <http://app.go.mathworks.com/e/er?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&s=646005169&lid=3034&elqTrackId=202ab5fb4fce4b87a730256f0e3a8a8f&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1> 	 
+  	
+ 	 	
+ <http://app.go.mathworks.com/e/er?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&s=646005169&lid=20626&elqTrackId=8e29deb3e32c435f9d029f03bd78dad7&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1> 	 Talk to other MATLAB users <http://app.go.mathworks.com/e/er?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&s=646005169&lid=20626&elqTrackId=d0d9d37f43c24b8daf6617494528fbf8&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1> 	 
+ <http://app.go.mathworks.com/e/er?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&s=646005169&lid=20625&elqTrackId=f502d776097e49dba0d2f31bb5a77c6e&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1> 	 Access MATLAB Examples <http://app.go.mathworks.com/e/er?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&s=646005169&lid=20625&elqTrackId=fe5ec1cf1cb8403a83a3e2c379174298&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1> 	 
+	
+ 	 
+
+© 2020 The MathWorks, Inc.
+MATLAB and Simulink are registered trademarks of The MathWorks, Inc. See a list of additional trademarks <https://uk.mathworks.com/company/aboutus/policies_statements/trademarks.html?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=bcebcaf724534293b11fbb7c87f5a68e&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978&elqcst=272&elqcsid=34> .
+Other product or brand names may be trademarks or registered trademarks of their respective holders.
+
+You are subscribed as j.c.bosch-carracedo@sms.ed.ac.uk 
+Manage <https://go2.mathworks.com/preference-center?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=9955719087014928aee7c97789f82916&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978&elqcst=272&elqcsid=34>  your email preferences or unsubscribe from our commercial email promotions. View our privacy policy <https://uk.mathworks.com/company/aboutus/policies_statements.html?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=4d83e627030a4fcd9a8c4277b81c81a9&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978&elqcst=272&elqcsid=34> .
+
+The MathWorks, Ltd. <https://uk.mathworks.com/?s_v1=30198&elqem=2970720_EM_UK_DIR_20-03_MOE-EDU&elqTrackId=fd18caca6fb54f68bcfbf6620de5abec&elq=c56192fdcdaf4f38932a2723a736980c&elqaid=30198&elqat=1&elqCampaignId=10978&elqcst=272&elqcsid=34> 
+Matrix House, Cambridge Business Park, Cambridge CB4 0HH
++44 (0) 1223 226700. Registration Number 3444214
+
+Headquarters: The MathWorks, Inc
+3 Apple Hill Drive, Natick, MA 01760-2098, USA | 001 508-647-7000	 
+ <https://s646005169.t.en25.com/e/FooterImages/FooterImage1?elq=c56192fdcdaf4f38932a2723a736980c&siteid=646005169> 

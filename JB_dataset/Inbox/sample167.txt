@@ -1,0 +1,46 @@
+students-bounces@inf.ed.ac.uk
+---------------
+[Students] Survey Explanations for Graphical Models
+---------------
+Dear All,
+
+
+I'm writing to ask you to take a few minutes to respond to a short survey ( typically takes about 10 minutes ).
+This survey is part of the research project, "Explainable AI via Bayesian Learning".  
+
+This research study aims to gather information from respondents which will help us to provide better explanations for Artificial Intelligence.
+
+Your participation in this study is entirely voluntary and you can withdraw at any time.
+
+
+
+
+The online survey is accessible at the link below:
+
+https://hwsml.eu.qualtrics.com/jfe/form/SV_57opBxSN0DjVL8N <https://hwsml.eu.qualtrics.com/jfe/form/SV_57opBxSN0DjVL8N> 
+
+
+
+This study is certified according to the Informatics Research Ethics Process, RT 2020/67345. You can find the Participant Information Sheet on the first page of the online survey.
+
+If you have any questions, please contact me via email: M.Clinciu@sms.ed.ac.uk <mailto:M.Clinciu@sms.ed.ac.uk>  or mc191@hw.ac.uk <mailto:mc191@hw.ac.uk> 
+
+
+
+
+Feedback is welcome!
+
+
+Thank you for taking the time to complete this survey!
+
+
+
+
+
+Kind Regards,
+
+Miruna Clinciu
+
+
+
+

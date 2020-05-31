@@ -1,0 +1,19 @@
+no_reply@jetbrains.com
+---------------
+JetBrains Educational Pack Confirmation
+---------------
+Hi,
+
+You've received this email because your email address was used for registering/updating a JetBrains Educational Pack. You can link JetBrains products to another email address in another step.
+
+Please follow this link to confirm your decision and start using JetBrains Educational Pack for free:
+
+Confirm Request <https://www.jetbrains.com/shop/eform/students/request?code=4u4h9qpw1uwkuvfpjl4r62jwu>  
+
+Yours truly, 
+The JetBrains Team 
+https://www.jetbrains.com 
+The Drive to Develop 
+
+
+ <https://account.jetbrains.com/services/email/track-opened.gif?trackingCode=00278AAD6E1C21323A7EDC13ED8809865E198D05BA7926C32E25429942555A26AA94E8B885DBB20BE3FD63AE1AD5DE8881E0C291CCC162B876C72FA591EDD7D967> 

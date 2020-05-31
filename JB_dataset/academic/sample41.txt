@@ -1,0 +1,32 @@
+inf1a-students-bounces@inf.ed.ac.uk
+---------------
+[Inf1a-students] Answers
+---------------
+Hullo all.
+
+Several of you have asked about answers for the mock, and for last year’s paper.
+
+I don’t propose to provide these.
+
+Your efforts should not be focussed on the answers, but rather on the question and 
+the process of moving from question to answer. You have plenty of examples of questions with
+answers — a few more will not help you
+
+At this stage, you should first be thinking about how to start each type of problem; and then how 
+you should continue. Seeing the correct answer is often a distraction from that — you can follow 
+the working for a particular example, without being able to generalise to other examples.
+
+You should be looking at the questions for which you don’t have answers, and trying to see 
+what they have in common with the many, many questions for which you do have answers.
+
+I hope this helps,
+
+Michael
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+_______________________________________________
+Inf1a-students mailing list
+Inf1a-students@inf.ed.ac.uk
+http://lists.inf.ed.ac.uk/mailman/listinfo/inf1a-students

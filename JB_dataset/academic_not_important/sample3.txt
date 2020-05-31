@@ -1,0 +1,24 @@
+sys-announce-bounces@inf.ed.ac.uk
+---------------
+[sys-announce] 'lute' reboot
+---------------
+The server lute.inf.ed.ac.uk will be rebooted starting at 10am today to clear a problem.
+The reboot will take just a few minutes.
+lute.inf.ed.ac.uk is also known as student.login.inf.ed.ac.uk, and it's one of the servers for the xrdp.inf.ed.ac.uk remote desktop service.
+
+Chris Cooke, Informatics computing.
+
+Computing help for the School of Informatics:  http://computing.help.inf.ed.ac.uk
+
+
+
+
+
+_______________________________________________
+sys-announce mailing list
+sys-announce@inf.ed.ac.uk
+http://lists.inf.ed.ac.uk/mailman/listinfo/sys-announce
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.

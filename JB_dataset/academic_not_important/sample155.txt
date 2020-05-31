@@ -1,0 +1,35 @@
+students-bounces@inf.ed.ac.uk
+---------------
+[Students] Event: Fears and Dreams of Intelligent Machines, Wed,	9 October 2019
+---------------
+Fourth in a series of public discussion, the event will cover issues around developing intelligent machines and their future implications.
+
+About the event
+Since ancient times our imagination has been captivated by the stories of automata and intelligent machines: stories of Golem or Hephaestus’s golden servants were followed in modern times by sci-fi literature and films. Can we create them? Can they surpass us?
+
+Artificial system are now present in our everyday lives, but many questions about their further development remain the same as before: how may non-human intelligences differ from us, and what are the social changes that may come about as AI systems are developed and deployed? If you're interested in the sci-fi, cyborgs and singularities or the realities of machine learning and how they will inform politics and social change in the coming years then our event will be of interest to you.
+
+We have invited speakers from a range of disciplines: machine learning, humanities, philosophy and cognitive science to discuss the dreams and fears we have for the creation of AI from the popular imagination as well as the reality of what AI and Machine Learning currently is and the prospects for the future.
+
+At the event we hope to discuss whether machines can reach a level of intelligence greater than human and if so - how; whether advanced ML systems follow the same values as us and how to align them with our own aims and the aims of the society; and last but not least what the prospects for humanity in the face of accelerating technological growth are.
+
+Come and join the discussion.
+
+This event is co-organized by EdIntelligence (Machine Learning Society), School of Informatics, University of Edinburgh and Edinburgh Futures Institute.
+
+Panel
+- Dr Mark Sprevak: Is a Senior Lecturer on the Philosophy of Mind & Cognition in PPLS researching computational theories of mind; the ethics of AI; and embodied, extended and distributed cognition. He also teaches&nbsp; teaches the Ethics of AI course in the School.
+- Dr Kanta Dihal: Is a lead for the Global AI Narratives project studying how fictional and non-fictional stories shape the development and public understanding of artificial intelligence, and co-editor of the upcoming book AI Narratives: A History of Imaginative Thinking About Intelligent Machines.
+- Prof Amos Storkey: A Professor in the School of Informatics researching a wide range of mathematically orientated research areas with AI and machine learning including Bayesian methods, graphical models, understanding deep learning, reinforcement learning and meta-learning, and applied areas including music generation and bioinformatics.
+- Dr Robin Hill: A cognitive scientist both in Informatics researching primarily understanding the cognitive aspects of information processing for HCI, and lab manager for the Neuropolitics group who are using cognitive science and data science methods to shed new light on political attitudes, identities and decision-behaviors.
+
+The event will be followed by a drinks reception/social.
+
+NB This event might be streamed live, recorded and/or photographed.
+
+Registration is required for this event: https://www.eventbrite.co.uk/e/fears-and-dreams-of-intelligent-machines-tickets-72503549067 <https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.eventbrite.co.uk%2Fe%2Ffears-and-dreams-of-intelligent-machines-tickets-72503549067%3Ffbclid%3DIwAR2xjLo6Gp_AlId9mulMUUYixgXQoULd9EwTcb-vxfEqBGr8_YPY1Z_05UI&h=AT2k3K0Z6_8hzEn9UAzuBknVL7eYTVZHJMymiWo92ELf-NbZHs5mxaEDp5xRW6dT20-msnmpdMIfBogkSj8Xpxc_Prmt2fxRap8toChqrhgHGVO6v6vIwgYpcdp30ShdW0-a> 
+
+➡ More info about the series: https://www.ed.ac.uk/informatics/news-events/public/we-need-to-talk-about-ai <https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ed.ac.uk%2Finformatics%2Fnews-events%2Fpublic%2Fwe-need-to-talk-about-ai%3Ffbclid%3DIwAR0K0Sq6GAwmPXVqajWMozh_xCx_jH81hATrl120py-i0VHDd0WqahhX6oM&h=AT29NMulN3cwVnG9mUq_-gEprspcx3aL1PFvtYW2YUpvcLEqV983w_M_SqudIUcOmytIoulh7rmNnFQ3gXcoylBgL-JEONXOBVjTbkrPk4MxLbmrc9LZx5WtD_w_HoOQE9Go> 
+➡ More info about this event: https://www.ed.ac.uk/informatics/news-events/public/we-need-to-talk-about-ai/fears-dream-intelligent-machines <https://www.ed.ac.uk/informatics/news-events/public/we-need-to-talk-about-ai/fears-dream-intelligent-machines?fbclid=IwAR0K0Sq6GAwmPXVqajWMozh_xCx_jH81hATrl120py-i0VHDd0WqahhX6oM> 
+
+ 

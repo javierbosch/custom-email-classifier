@@ -1,0 +1,12 @@
+students-bounces@inf.ed.ac.uk
+---------------
+[Students] Bright Club, 19.30 Mon 11 Nov at The Stand, Glasgow
+---------------
+
+
+.   \ Philip Wadler, Professor of Theoretical Computer Science,
+.   /\ School of Informatics, University of Edinburgh
+
+.  /  \ and Senior Research Fellow, IOHK
+
+. http://homepages.inf.ed.ac.uk/wadler/

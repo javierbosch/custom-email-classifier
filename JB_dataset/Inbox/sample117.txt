@@ -1,0 +1,213 @@
+students-bounces@inf.ed.ac.uk
+---------------
+[Students] Talks Wednesday 19th March Lecturer/Senior Lecturer/Reader in Algorithms and Complexity for Optimisation
+---------------
+The candidates for the position of Lecturer/Senior Lecturer/Reader in Algorithms and Complexity for Optimisation will present talks to the School on Wednesday 19th March 2020 in G.07, Informatics Forum. 
+
+ 
+
+All Informatics staff and students are invited to attend these talks however are reminded that these are strictly confidential and candidates should not be discussed outside of Informatics. Should you be interested in meeting with any of our candidates please contact their hosts directly. 
+
+ 
+
+Research talks 
+
+ 
+
+9.00am: Sayan Bhattacharya (host Andreas Pieris)
+
+ 
+
+Biography:
+
+Dr Sayan Bhattacharya is an Assistant Professor in the Department of Computer Science at the University of Warwick, UK. He obtained his PhD from Duke University, USA and did his postdocs from the Max-Planck Institute for Informatics, Germany and University of Vienna, Austria. Before joining Warwick, he was a faculty member at the Institute of Mathematical Sciences, India. His research interests are in dynamic algorithms, data structures and algorithmic game theory.
+
+ 
+
+Publications:
+
+https://www.dcs.warwick.ac.uk/~u1671158/
+
+ 
+
+Research talk: 
+
+Some Recent Advances in Dynamic Algorithms
+
+Many real-world networks such as the ones arising out of facebook and twitter, webpages and hyperlinks etc. evolve with the passage of time. This motivates the study of dynamic algorithms, where we have to maintain the solution to a given optimization problem when the input keeps changing via a sequence of updates (edge insertions/deletions). The goal is to design algorithms whose update times (time taken to handle an edge insertion/deletion) are significantly faster than recomputing the solution from scratch after each update to the input. In this talk, I will present a high level overview of some recent developments in this area, focusing primarily on (1) dynamic algorithms based on the primal-dual method and (2) a new technique for proving lower bounds on the update times of dynamic algorithms.
+
+ 
+
+9.45am: Srikanth Srinivasan (host Heng Guo)
+
+ 
+
+Biography:
+
+Srikanth Srinivasan obtained an undergraduate degree in Computer Science from the Indian Institute of Technology, Madras, and his PhD from the Institute of Mathematical Sciences (Chennai, India) under the guidance of V. Arvind. After postdoctoral stints at the Institute for Advanced Study (Princeton, USA) and DIMACS, Rutgers University (New Brunswick, USA), he took up a faculty position at the Indian Institute of Technology Bombay (Mumbai, India), where he has been since 2012.
+
+Srikanth Srinivasan's research interests lie in Computational complexity theory, Derandomization and the use of Algebraic techniques in Algorithms and Complexity.
+
+ 
+
+Publications:
+
+http://www.math.iitb.ac.in/~srikanth/papers.html
+
+ 
+
+Research talk: 
+
+Polynomials, Circuits, and Algorithms
+
+Abstract: Algebraic techniques play an important role in our understanding of algorithms and complexity. Quite often, when confronted with an algorithmic or lower bound question, it is profitable to understand whether the underlying objects can be modeled, exactly or approximately, as algebraic objects that we understand well. Low-degree polynomials have been especially useful in this arena, offering both flexibility in terms of being useful in many situations and structure in the sense of yielding to formal mathematical analysis using well-developed machinery. Polynomial-based techniques have been useful in solving a variety of problems including those in circuit analysis leading to lower bounds, algorithmic problems in learning theory and optimization, reductions among various optimization problems, information transmission, etc.. In this talk, we will examine some of these themes with an emphasis on circuit analysis and related algorithms. I will describe a few of my results in this area and conclude with a description of future research themes.
+
+ 
+
+10.30am: Jonah Brown-Cohen (host Mary Cryan)
+
+ 
+
+Biography:
+
+Jonah Brown-Cohen received a BS in Mathematics in 2011 and an MS in Computer Science in 2012 from Stanford University. He completed his PhD in Computer Science at the University of California, Berkeley in 2018, advised by Prasad Raghavendra. He received a Siebel Scholarship and an Honorable Mention for the National Science Foundation Fellowship in 2012. He was also awarded the UC Berkeley Outstanding Graduate Student Instructor Award in 2018-2019. Currently he is a Postdoctoral Researcher in the Division of Theoretical Computer Science at KTH Royal Institute of Technology, working with Johan Håstad. His research interests lie in computational complexity theory, focusing on the complexity of constraint satisfaction problems, the limitations of linear and semi-definite programming relaxations, and hardness of approximation. He has also worked on, and remains interested in, the limitations of cryptocurrency protocols.
+
+ 
+
+Publications:
+
+https://www.kth.se/profile/jonahbc
+
+  
+
+Research talk: 
+
+Complexity Beyond the Worst-case: From Hard Problems to Hard Instances 
+
+The theory of NP-completeness has been very successful in describing which computational problems are hard to efficiently solve in the worst case. On the other hand, problems that are hard in the worst case may turn out to be much easier in practice. For example, modern SAT solvers can solve industrial instances of the satisfiability problem with millions of variables. This apparent discrepancy arises because the classical theory leaves the following basic questions unanswered: Which instances are hard? What are the structural properties of hard instances? Can hard instances be efficiently generated (e.g. for cryptographic applications)?
+
+ 
+
+In this talk, I will describe two complementary approaches I have taken to answering such questions. In the first, I consider a fundamental class of problems (constraint satisfaction problems), and identify structural properties of hard instances. In the second, I consider a fundamental class of algorithms (linear and semi-definite programs) and identify a natural distribution of random instances that these algorithms cannot efficiently solve.
+
+ 
+
+11.15am: Break 
+
+ 
+
+11.30am: Ioannis ‘Yiannis’ Giannakopoulos (host Richard Mayr)
+
+ 
+
+Biography:
+
+My research interests lie in the general field of Algorithms and Complexity. I have primarily worked in algorithmic game theory and mechanism design, as well as online, randomised and approximation algorithms. I am currently a Lecturer ("Akademischer Rat") at the Chair of Operations Research of TU Munich, where I am also a member of the Discrete Mathematics group and a Junior Advisor at the AdONE (Advanced Optimisation in a Networked Economy) centre for doctoral training. I completed my DPhil in 2015 at the Computer Science department of the University of Oxford, advised by Elias Koutsoupias. I hold an undergraduate degree in Mathematics and an MSc in Logic, Algorithms and Computation, both from the University of Athens (Greece).
+
+ 
+
+Publications:
+
+https://yiannisgiannakopoulos.com/#publications
+
+ 
+
+Research talk: 
+
+A Glimpse of Algorithmic Game Theory
+
+We begin by giving a high-level introduction to the field of Algorithmic Game Theory (AGT), discussing the motivation behind its conception and briefly presenting a selection of characteristic problems, related to our recent work in the area. Next, we focus specifically on optimal auction design and present a general duality-theory framework for revenue maximisation in Bayesian auctions with multiple items. Although the single-item case has been resolved in a very elegant way by the seminal work of Myerson [1981], optimal solutions involving more items still remain elusive. The framework extends linear programming duality and complementarity to constraints with partial derivatives. The dual system reveals the geometric nature of the problem and highlights its connection with the theory of bipartite graph matchings. We demonstrate the power of the framework by applying it to the canonical setting of uniformly i.i.d. valuations, to design both exact and approximately optimal selling mechanisms for many items.
+
+ 
+
+12.15pm: Break
+
+ 
+
+1pm: Chris Schwiegelshohn (host Milos Nikolic) 
+
+ 
+
+Biography:
+
+Chris Schwiegelshohn completed his PhD (summa cum laude) at the Technical University of Dortmund under the supervision of Christian Sohler in 2017. Subsequently, he has been working at Sapienza, University of Rome, starting as a postdoc in the group of Stefano Leonardi. In 2018, he joined the faculty of the department for computer, control and management engineering (DIAG), as an assistant professor. Chris' research interests cover all areas of basic algorithms research, with a focus on algorithms for large data sets, approximation algorithms, and online algorithms.
+
+ 
+
+Publications:
+
+https://dblp.org/pers/hd/s/Schwiegelshohn:Chris
+
+ 
+
+Research talk: 
+
+Dimension Reduction for k-Means
+
+k-means is arguably one of the most popular clustering objectives. Despite popular heuristics like k-means++, Lloyds algorithm and local search scaling reasonably well for large and high dimensional data sets, k-means also suffers from the curse of dimensionality. In low dimensions, we can approximate the problem to any desired precision, while the same task is not possible in high dimensions. Hence, dimension reduction algorithms have been a staple of k-means research. In this talk, we will provide a basic overview of dimension reduction for k-means in Euclidean spaces. In addition, we will highlight some very recent developments that yield nearly optimal guarantees.
+
+Based on: Random Projections for k-Means - Beyond Subspaces and the Johnson-Lindenstrauss Lemma. With Luca Becchetti, Marc Bury, Vincent Cohen-Addad, Fabrizio Grandoni. Appeared at STOC 2019.
+
+ 
+
+1.45pm: Feedback session
+
+ 
+
+Teaching talks
+
+The presentation should be in the form of a mock tutorial and be an introductory 15 minute talk aimed at 4th year undergraduate students, introducing them to the "maximum cut problem", and possibly briefly discussing: its applications, its computational complexity, and/or approximation algorithms for it. The presentation will be attended by students and staff, and there will be five minutes afterwards to ask questions about the presentation and about the candidate's approach to teaching. You can assume that the audience has been exposed in the past to *introductory* courses in the following subjects: algorithms and data structures, theory of computation (including definitions of polynomial time and NP-completeness, and the NP-completeness of SAT), linear algebra, calculus, and discrete mathematics (including basics of graphs, and basic discrete probability).
+
+ 
+
+2.15pm            Sayan Bhattacharya
+
+ 
+
+2.45pm            Srikanth Srinivasan
+
+ 
+
+3.15pm            Jonah Brown-Cohen
+
+ 
+
+3.45pm            Break
+
+ 
+
+4.00pm            Ioannis ‘Yiannis’ Giannakopoulos
+
+ 
+
+4.30pm            Chris Schwiegelshohn
+
+ 
+
+5.00pm            Feedback Session
+
+ 
+
+ 
+
+------
+
+Samantha Inch
+
+Staffing Support Manager
+
+HR Office
+
+Room 5.39
+
+University of Edinburgh, Informatics Forum
+
+10 Crichton St | Edinburgh | EH8 9AB
+
+Tel:  +44 131 650 9006
+
+ 
+
+The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336.
+
+ 

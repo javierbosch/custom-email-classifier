@@ -1,0 +1,21 @@
+jira@greentechcorp.atlassian.net
+---------------
+[JIRA] (BIN-183) Website Frontend 1.0
+---------------
+  
+Jonathan Feldstein made 1 update. 
+bintech/BIN-183 Website Frontend 1.0  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+  
+Jonathan Feldstein made 1 update. 
+bintech <https://greentechcorp.atlassian.net/browse/BIN?atlOrigin=eyJpIjoiMmRkN2Q4YzFkNmI3NGM4ODhkMDAwNmFmMWRiY2Y0ZjMiLCJwIjoiaiJ9>  	
+  /   	 		BIN-183 <https://greentechcorp.atlassian.net/browse/BIN-183?atlOrigin=eyJpIjoiMmRkN2Q4YzFkNmI3NGM4ODhkMDAwNmFmMWRiY2Y0ZjMiLCJwIjoiaiJ9>  	
+Website Frontend 1.0 <https://greentechcorp.atlassian.net/browse/BIN-183?atlOrigin=eyJpIjoiMmRkN2Q4YzFkNmI3NGM4ODhkMDAwNmFmMWRiY2Y0ZjMiLCJwIjoiaiJ9> 
+ <https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5db9ecd155b49c0c3561f2a7/1ef8079f-2518-4840-a91d-3150c0b3128f/128> 	Jonathan Feldstein 4:14 PM GMT 	
+Summary:	 Website Frontend  Website Frontend 1.0 	
+	View issue <https://greentechcorp.atlassian.net/browse/BIN-183?atlOrigin=eyJpIjoiMmRkN2Q4YzFkNmI3NGM4ODhkMDAwNmFmMWRiY2Y0ZjMiLCJwIjoiaiJ9>  	
+We’re improving email notifications. Learn more <https://confluence.atlassian.com/pages/viewpage.action?pageId=966663831>  or let us know what you think <https://surveys.atlassian.com/jfe/form/SV_9X3zi1X4q1gKsqF> . 
+Get Jira notifications on your phone! Download the Jira Cloud app for Android <https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&referrer=utm_source%3DNotificationLink%26utm_medium%3DEmail>  or iOS <https://itunes.apple.com/app/apple-store/id1006972087?pt=696495&ct=EmailNotificationLink&mt=8> . 	  	 	
+We’re improving email notifications. Learn more <https://confluence.atlassian.com/pages/viewpage.action?pageId=966663831>  or let us know what you think <https://surveys.atlassian.com/jfe/form/SV_9X3zi1X4q1gKsqF> . 
+Get Jira notifications on your phone! Download the Jira Cloud app for Android <https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&referrer=utm_source%3DNotificationLink%26utm_medium%3DEmail>  or iOS <https://itunes.apple.com/app/apple-store/id1006972087?pt=696495&ct=EmailNotificationLink&mt=8> . 
+ 
+ <http://atlassian.et.e.sparkpost.com/q/hA8pA5pn5v5DH5Q4SiU1HA~~/AAAAAQA~/RgRft-ySPlcLYXRsYXNzaWFudXNCCgAmkmfVXXiEodBSIGouYy5ib3NjaC1jYXJyYWNlZG9Ac21zLmVkLmFjLnVrWAQAAAAE> 

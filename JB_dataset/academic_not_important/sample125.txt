@@ -1,0 +1,35 @@
+students-bounces@inf.ed.ac.uk
+---------------
+[Students] Huawei UK AI competition 2019
+---------------
+Dear students
+
+ 
+
+We’d like to alert you to the Huawei UK AI competition 2019, see https://www.drive-ml.com/ .
+
+ 
+
+The challenge is to design an autonomous agent that is capable of driving safely and efficiently across a variety of simulated maps containing numerous tasks, such as merging, intersections, high-ways, and many others. They offer such scenarios through a simulator that emulates real-world traffic at a variety of granularity levels.  The
+
+challenges consist of two-phases covering both single and multi-agent reinforcement learning scenarios.
+
+ 
+
+Competition registration opened on 15 October 2019. The Competition itself commences on 1 November 2019 and ends at midnight on 29th November 2019.
+
+ 
+
+If you are interested and want to find out more, you can contact: 
+
+Haitham.ammar@huawei.com <mailto:Haitham.ammar@huawei.com> 
+
+ 
+
+Best
+
+Neil
+
+ 
+
+                                    

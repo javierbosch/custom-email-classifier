@@ -1,0 +1,15 @@
+learn@ed.ac.uk
+---------------
+Informatics 1 - Object Oriented Programming (2019-2020)[SEM2]: Second Assignment Picture Loading Issue (hopefully) fixed
+---------------
+Hi all,
+
+Some of you reported issues with uploading pictures to the Peer Feedback Framework. My TA has figured out that the problem might be with a maximum allowed upload limit on the Apache Server. Computing support jumped in to save the day just now and increased the upload limit. I just tried it and it worked for me.
+
+Ross from computing support told me he set the limit to 10MB for now but I still highly recommend that you keep your pictures small (a few 100 KB only) and if you are posting code use the </> tag instead of a picture with a screenshot.
+
+Please keep us posted on Piazza whether that is working now for you or not.
+
+Cheers
+
+Volker

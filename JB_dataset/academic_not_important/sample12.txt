@@ -1,0 +1,22 @@
+sys-announce-bounces@inf.ed.ac.uk
+---------------
+[sys-announce] archlute (xrdp.inf server) downtime
+---------------
+The server archlute.inf.ed.ac.uk - one of the machines which provides the xrdp.inf.ed.ac.uk remote desktop service - will be taken down for maintenance, starting at at 10:00 on Wednesday 8 January. It needs various urgent updates, and these may take a while, so it could be down for up to an hour. While it's down the other xrdp.inf.ed.ac.uk server lute.inf.ed.ac.uk should still be up and operational, so please feel free to use that instead to avoid inconvenience. The other remote desktop services - staff.xrdp.inf.ed.ac.uk and dl.xrdp.inf.ed.ac.uk - will also not be affected by this.
+
+You can learn about the remote desktop service at:
+
+	http://computing.help.inf.ed.ac.uk/remote-desktop
+
+Chris.
+
+Computing help for the School of Informatics:  http://computing.help.inf.ed.ac.uk
+
+_______________________________________________
+sys-announce mailing list
+sys-announce@inf.ed.ac.uk
+http://lists.inf.ed.ac.uk/mailman/listinfo/sys-announce
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.

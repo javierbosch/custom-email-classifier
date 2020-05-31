@@ -1,0 +1,35 @@
+service@mathworks.com
+---------------
+Confirm MathWorks Account information
+---------------
+To ensure our e-mails reach your inbox, add the domain @mathworks.com  
+to your safe sender list.
+
+	
+ <http://www.mathworks.com>  		
+
+Confirm MathWorks Account information
+
+	
+A license has recently been linked to your MathWorks Account.
+
+
+We recommend that you:
+
+Sign in to http://www.mathworks.com/mwaccount and confirm that your account information is correct.
+
+Take a look at other license benefits you can access to optimize your MATLAB experience. https://www.mathworks.com/support/association/benefits_of_associating.html 
+
+Sincerely,
+
+MathWorks Customer Service Team
+
+Privacy policy <http://www.mathworks.com/company/aboutus/policies_statements/>  		
+
+The MathWorks, Inc. <http://www.mathworks.com>  3 Apple Hill Drive, Natick, MA 01760 - 508-647-7000 
+© 2019 The MathWorks, Inc. MATLAB and Simulink are registered trademarks of The MathWorks, Inc. 
+Trademarks <https://www.mathworks.com/company/aboutus/policies_statements/trademarks.html>  | Privacy Policy <https://www.mathworks.com/company/aboutus/policies_statements.html>  
+
+	
+              
+ <https://www.mathworks.com/matlabcentral/profile/footer/enbucnoxfkwzaokayotttzsqeaqtrjjqyfvypdexroipmnkpln.gif?app_name=associate_license> 

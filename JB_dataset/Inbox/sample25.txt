@@ -1,0 +1,125 @@
+students-bounces@inf.ed.ac.uk
+---------------
+[Students] Talks Friday 17th April Lecturer/Senior Lecturer/Reader in Explainable Artificial Intelligence
+---------------
+The talks for Lecturer/Senior Lecturer/Reader in Explainable Artificial Intelligence will take place Friday 17th April. Please note all talks are confidential and should not be shared out with the school. We will be using Blackboard Collaborate for these talks and we will send the link in due course. 
+
+ 
+
+Feedback on the talks can be sent by email to Jane Hillston (Jane.Hillston@ed.ac.uk <mailto:Jane.Hillston@ed.ac.uk> ) or Jacques Fleuriot (Jacques.Fleuriot@ed.ac.uk <mailto:Jacques.Fleuriot@ed.ac.uk> ) 
+
+ 
+
+If anyone wishes to arrange a talk with the candidates please use the following link taking you to the schedule sheet set up by their hosts: https://edin.ac/39XGb4d 
+
+ 
+
+Best wishes, 
+
+Sam 
+
+ 
+
+------------
+
+Research talks
+
+ 
+
+9.30am: Siddharth Narayanaswamy (host Petros Papapanagiotou)
+
+Biography:
+
+Siddharth Narayanaswamy (Sid) is a Senior Researcher in the Department of Engineering Science at the University of Oxford. Prior to this, he was a Postdoctoral Scholar in Psychology at Stanford, and obtained his PhD from Purdue University in Electrical and Computer Engineering. His research broadly involves the confluence of machine learning, computer vision, natural-language processing, cognitive science, robotics, and elements of cognitive neuroscience, leading towards a central research goal to better understand perception and cognition with a view to enabling human-intelligible machine intelligence.
+
+ 
+
+Publications: 
+
+https://www.robots.ox.ac.uk/~nsid/cv/publications.pdf
+
+ 
+
+Research Talk: 
+
+Inducing Common Ground Between Humans and Machines (or Learning Interpretable Representations for xAI)
+
+An interesting challenge faced by data-driven approaches of recent years relates to their 'explainability'. While they often match (and sometimes exceed) human performance, they are typically opaque to human understanding of rationale, i.e. how they reached their decisions. Standard approaches to xAI primarily tackle rationale by attempting to 'translate' the black box into an explainable form---broadly, through surrogate models or sensitivity analyses---which are often only able to provide simplistic explanations (heat maps, categorical labels), and can lack context (mainly targetting expert users). In some cases, the translation itself can involve black boxes, which further exacerbates issues.
+
+Building on some of my prior work on human-like learning and reasoning with abstract symbolic representations of data, I have been exploring an alternate approach to xAI that seeks to establish rationale by 'opening up' the black box---through learning interpretable structured decompositions of data. The key insight is that interpretable representations can help establish common ground with humans by leveraging broad (not task specific) constraints from cognitive science, and enable more human-understandable symbolic reasoning and processing of decisions. In this talk, I will outline the benefits of such an approach, describe some recent approaches towards achieving this goal, and set out a plan for further research exploring structured representations of data.
+
+ 
+
+10.15am: Daria Stepanova (host Nadin Kokciyan)
+
+Biography: 
+
+Daria Stepanova is a research scientist at Bosch Center for Artificial Intelligence. Her research interests include exploitation of Knowledge Representation and Reasoning techniques within the area of Explainable AI with a special focus on automatic acquisition of rules from structured data. Previously Daria was a senior researcher at Max Plank Institute for Informatics (Germany), where she was heading a group on Semantic Data. Daria got her diploma degree in Applied Computer Science from the department of Mathematics and Mechanics of St. Petersburg State University (Russia) in 2010 and a PhD in Computational Logic from Vienna University of Technology (Austria) in 2015 under the supervision of Prof. Thomas Eiter. Before starting her PhD she worked as a visiting researcher at the school of Computing Science at Newcastle University (UK) in an industrially-oriented project.
+
+ 
+
+Publications: 
+
+https://dariastepanova.github.io/
+
+ 
+
+Research talk:
+
+Digital Knowledge: From Facts to Rules and Back
+
+Knowledge Graphs (KGs) are huge collections of primarily encyclopedic facts, which are automatically extracted from the Web. Prominent examples of KGs include Yago, DBPedia, Google Knowledge Graph. We all use KGs when posing simple queries like "capital of Scotland" to Google. Internally, such queries are translated into machine readable representations, which are then issued against the KG stored at the backend of the search engine. Instead of syntactically relevant Web pages, the actual answer to the above query, "Edinburgh", is then output to the user as a result.
+
+However, since KGs are automatically constructed, they are often inaccurate and incomplete. In this talk, I will investigate how deductive and inductive reasoning services could be used to address these crucially important issues. More specifically, first, I will present an approach for repairing inconsistencies in hybrid logical systems that can be built on top of KGs. Second, I will describe methods for inductive learning of rules from KGs possibly enhanced with unstructured information sources and show how these are applied for deriving missing facts. 
+
+ 
+
+11.00am: Feedback session
+
+ 
+
+Teaching talks
+
+The presentation should be an introductory 15 minutes lecture aimed at second year undergraduates in Informatics. It should explain how to construct a minimax search tree with alpha-beta pruning for an adversarial game and situate the topic by briefly outlining the role of games in AI research. The presentation will be attended by students and staff, and there will be five minutes afterwards to ask questions about the presentation and about the candidates approach to teaching.
+
+ 
+
+11.30am: Siddharth Narayanaswamy
+
+ 
+
+12.00pm: Daria Stepanova
+
+ 
+
+12.30pm: Feedback session
+
+ 
+
+ 
+
+ 
+
+ 
+
+------
+
+Samantha Inch
+
+Staffing Support Manager
+
+HR Office
+
+Room 5.39
+
+University of Edinburgh, Informatics Forum
+
+10 Crichton St | Edinburgh | EH8 9AB
+
+Tel:  +44 131 650 9006
+
+ 
+
+The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336.
+
+ 

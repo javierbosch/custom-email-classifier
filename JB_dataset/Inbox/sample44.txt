@@ -1,0 +1,31 @@
+sys-announce-bounces@inf.ed.ac.uk
+---------------
+[sys-announce] remote desktop - you can help
+---------------
+If you use DICE via Microsoft Remote Desktop (or similar), this is for you.
+
+Dear all,
+
+The remote desktop servers are struggling, and you can help in three ways:
+
+• When you finish work, please log out of DICE *before* quitting your Remote Desktop client. Otherwise your DICE session will continue overnight, and this can cause problems for other users. Logging out is explained at http://computing.help.inf.ed.ac.uk/how-to-logout-remote
+
+• Use your new remote server instead of xrdp.inf.ed.ac.uk. For details see http://computing.help.inf.ed.ac.uk/remote-desktop#remote
+
+• Taught students, please do coursework on your lab.inf.ed.ac.uk computer (instead of on a remote desktop server). For details see http://computing.help.inf.ed.ac.uk/remote-lab
+
+Thank you!
+
+Chris Cooke, Informatics computing.
+
+Computing help for the School of Informatics:  http://computing.help.inf.ed.ac.uk
+
+
+
+_______________________________________________
+sys-announce mailing list
+sys-announce@inf.ed.ac.uk
+http://lists.inf.ed.ac.uk/mailman/listinfo/sys-announce
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.

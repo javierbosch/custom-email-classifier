@@ -1,0 +1,33 @@
+sys-announce-bounces@inf.ed.ac.uk
+---------------
+[sys-announce] Network server reboot
+---------------
+We need to reboot one of the Forum network servers for a kernel upgrade.  
+This will take place at 13:00 today.  You're unlikely to notice this.
+
+However...
+
+If you have a self-managed machine which has a dynamic leased address AND it
+tries to renew its DHCP lease during the couple of minutes or so that this
+reboot takes then it will fail and oyou might then lose connectivity.  If
+you're unlucky enough to hit this combination then just wait a couple of
+minutes and retry.
+
+Managed Windows and Linux users, and self-managed users with static 
+addresses won't be affected at all.  We have multiple DHCP servers covering 
+these groups.
+-- 
+George D M Ross MSc PhD CEng MBCS CITP
+University of Edinburgh, School of Informatics,
+Appleton Tower, 11 Crichton Street, Edinburgh, Scotland, EH8 9LE
+Mail: gdmr@inf.ed.ac.uk   Voice: 0131 650 5147 
+PGP: 1024D/AD758CC5  B91E D430 1E0D 5883 EF6A  426C B676 5C2B AD75 8CC5
+
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+_______________________________________________
+sys-announce mailing list
+sys-announce@inf.ed.ac.uk
+http://lists.inf.ed.ac.uk/mailman/listinfo/sys-announce

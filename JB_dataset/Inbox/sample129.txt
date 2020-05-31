@@ -1,0 +1,29 @@
+students-bounces@inf.ed.ac.uk
+---------------
+[Students] Mini ILCR event
+---------------
+The International Conference on Learning Representations (ICLR) is one of the most prestigious in machine learning. EdIntelligence will bring to you some of the UoE research accepted to the conference.
+
+
+When: 24th of March <x-apple-data-detectors://1> 
+Time: 18:00 - 19:30 <x-apple-data-detectors://2> 
+Where: Appleton Tower Lecture Theatre 5
+
+
+The presented papers are:
+
+Physics-as-Inverse-Graphics: Unsupervised Physical Parameter Estimation from Video (Miguel Jaques, Michael Burke, Timothy Hospedales)
+
+Presented by Miguel Jaques
+
+Generative Ratio Matching Networks (Akash Srivastava, Kai Xu, Michael U. Gutmann, Charles Sutton)
+
+Presented by Kai Xu
+
+BlockSwap: Fisher-guided Block Substitution for Network Compression on a Budget (Jack Turner, Elliot J. Crowley, Michael O'Boyle, Amos Storkey, Gavin Gray)
+
+Presented by Elliot Crowley
+
+
+
+The event will conclude with drinks and nibbles. More information you can find on the Facebook event: https://www.facebook.com/events/543523593188769/.

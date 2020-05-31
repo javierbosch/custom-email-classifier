@@ -1,0 +1,31 @@
+sys-announce-bounces@inf.ed.ac.uk
+---------------
+[sys-announce] Cloud printing degraded
+---------------
+The cloud printing issues from yesterday rumble on, but apparently 
+intermittently. IS describe the service as "degraded".
+
+It's unclear from the IS status page: https://alerts.is.ed.ac.uk/ if it 
+has been degraded for 4 days, or if it is expected to remain degraded for 
+4 days.
+
+Their suggestion on:
+
+https://alerts.is.ed.ac.uk/index.cfm?fuseaction=view_alert&alert_id=8920
+
+is to just try logging in again.
+
+We will keep the status page on http://computing.help.inf.ed.ac.uk 
+updated.
+
+Neil
+-- 
+  Neil Brown - Computing Officer - Appleton Tower 7.12a | Neil.Brown @ ed. ac.uk
+  School of Informatics, University of Edinburgh        | Tel: +44 131 6504422
+_______________________________________________
+sys-announce mailing list
+sys-announce@inf.ed.ac.uk
+http://lists.inf.ed.ac.uk/mailman/listinfo/sys-announce
+
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.

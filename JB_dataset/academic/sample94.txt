@@ -1,0 +1,18 @@
+inf1a-students-bounces@inf.ed.ac.uk
+---------------
+[Inf1a-students] CL2 Lab/ tutorial
+---------------
+I’m either elated or concerned to see no discussion of this on Piazza. 
+If that means you have no problems with these exercises, then I rejoice!
+However, if it means you’re only working on FP3, then I think you should  remember that, for most of you, your CL lab comes before your FP tutorial. Please prepare — and ask questions on Piazza if you have *any* problems. 
+
+Sent from my iPhone
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+_______________________________________________
+Inf1a-students mailing list
+Inf1a-students@inf.ed.ac.uk
+http://lists.inf.ed.ac.uk/mailman/listinfo/inf1a-students

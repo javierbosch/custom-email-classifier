@@ -1,0 +1,25 @@
+inf1a-students-bounces@inf.ed.ac.uk
+---------------
+[Inf1a-students] Tutorial 9 update
+---------------
+New versions of  Tutorial9.hs Tutorial9.pdf uploaded to learn.
+
+Some minor edits to make the text match the code — 
+
+instances of  'list of’ changed to ‘set of’
+instances of [q] changed to Set q
+
+Several typos corrected.
+
++ minor improvements to code — adding some missing type specifications.
+
+
+Best
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+_______________________________________________
+Inf1a-students mailing list
+Inf1a-students@inf.ed.ac.uk
+http://lists.inf.ed.ac.uk/mailman/listinfo/inf1a-students

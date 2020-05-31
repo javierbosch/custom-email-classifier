@@ -1,0 +1,161 @@
+students-bounces@inf.ed.ac.uk
+---------------
+[Students] TODAY: 16th April Lecturer/Senior Lecturer/Reader in Biomedical Artificial Intelligence (joint post with IGMM)
+---------------
+The talks for Lecturer/Senior Lecturer/Reader in Biomedical Artificial Intelligence (joint post between Informatics and IGMM) will take place TODAY. Please note all talks are confidential and should not be shared out with the school or IGMM. 
+
+ 
+
+We will be using Blackboard Collaborate for these talks, please use the following link to join: 
+
+https://eu.bbcollab.com/guest/25961a068c0f40cba0d09ffae74ab2eb <https://eu.bbcollab.com/guest/25961a068c0f40cba0d09ffae74ab2eb> 
+
+(Chrome browser and headphones recommended) 
+
+ 
+
+Feedback on the Research talks can be sent to Matthias Hennig (m.hennig@ed.ac.uk <mailto:m.hennig@ed.ac.uk> ) or Chris Ponting (Chris.Ponting@igmm.ed.ac.uk <mailto:Chris.Ponting@igmm.ed.ac.uk> ) 
+
+Feedback on the Teaching talks can be sent to David Sterratt (David.C.Sterratt@ed.ac.uk <mailto:David.C.Sterratt@ed.ac.uk> ) 
+
+ 
+
+If you wish to meet and talk with any of the candidates their hosts are listed below and a signup sheet has been created: https://docs.google.com/spreadsheets/d/1JW_EHI7dbIlF7Zw3ciIx3mOYo7bNeT1Op-NzDaQTgFw/edit?usp=sharing <https://docs.google.com/spreadsheets/d/1JW_EHI7dbIlF7Zw3ciIx3mOYo7bNeT1Op-NzDaQTgFw/edit?usp=sharing> 
+
+ 
+
+--------
+
+Research talks
+
+ 
+
+10.30am: Ailith Ewing (host Michael Gutmann Michael.Gutmann@ed.ac.uk <mailto:Michael.Gutmann@ed.ac.uk> )
+
+Biography:
+
+Dr Ailith Ewing is a UKRI Innovation Fellow at the IGMM MRC Human Genetics Unit at the University of Edinburgh. Her research focuses on developing new applications of machine learning and statistics to extract biomedical knowledge from high-throughput omics data. A major current emphasis is exploiting the explosion of genomic data generated from cancer patient cohorts. Since 2014, she has co-authored 17 peer reviewed research publications, including 6 in Nature and Nature Genetics (H index = 9), collaborating with local groups, as well as national and international consortia. Originally trained as a statistician, in 2012, she received a MMath Statistics degree from the University of St Andrews. She then pursued a PhD at the University of Cambridge applying regression modelling approaches to investigate the role of rare inherited genetic variation in ovarian cancer susceptibility and survival after diagnosis. On completion in 2015, she broadened her inter-disciplinary research experience as a Medical Statistician in the Clinical Trial Services Unit at the University of Oxford. In 2016, she joined the lab of Prof. Colin Semple in the MRC IGMM working as a bioinformatician for the Scottish Genomes Partnership, the largest whole genome sequencing project in Scotland. She contributed to a range of biomedical projects in the IGMM in this capacity before being awarded a UKRI Innovation Fellowship in December 2017, in collaboration with Prof. Charlie Gourley at the CRUK Edinburgh Cancer Centre and AstraZeneca. Since then she has pioneered new analytical methods and algorithms to extract knowledge from tumour sequencing data, enabling the stratification of patients for therapies.
+
+ 
+
+Publications: 
+
+https://scholar.google.com/citations?hl=en&user=fyFBEi8AAAAJ&view_op=list_works&sortby=pubdate <https://scholar.google.com/citations?hl=en&user=fyFBEi8AAAAJ&view_op=list_works&sortby=pubdate> 
+
+ 
+
+Research Talk:
+
+Exploiting AI to optimise targeting of treatment to patients with tumours with DNA repair deficiency
+
+Bridging the gap between precision medicine in cancer and artificial intelligence is a priority for biomedicine globally, and is an emerging strength of the University of Edinburgh. My research currently sits at the intersection between machine learning techniques, an area of expertise at the School of Informatics, and the analysis of high-throughput multi-omics datasets, an area of intense activity at the MRC Institute of Genetics and Molecular Medicine (IGMM). These projects are inherently interdisciplinary and I collaborate with a wide range of partners from academia, industry and health care. The overall theme is the discovery and interpretation of the patterns of mutations in tumour sequencing data which presents many interesting and complex analytical problems as well as exciting opportunities to further our understanding of tumour evolution. Our ongoing research harnesses the power of artificial intelligence to build accurate predictive models that can detect DNA repair deficiencies in tumours. There is a particularly pressing need for such models as the latest therapies exploit deficiencies to disrupt tumour growth and extend the survival of cancer patients. Establishing such models as clinical diagnostics will involve cutting-edge technologies from artificial intelligence applied to the emerging large datasets of whole genome sequencing data. I will describe the progress that we have made in tackling this problem, highlighting our recent novel results, and describing a roadmap to further research bridging medicine, tumour biology and AI.
+
+ 
+
+11.15am: Ava Khamseh (host Arno Onken aonken@inf.ed.ac.uk <mailto:aonken@inf.ed.ac.uk> ) 
+
+Biography:
+
+Ava Khamseh received her BSc (Hons) Mathematical Physics in 2013 from the University of Edinburgh. She then received her PhD in Lattice Quantum Chromodynamics in 2017 under the supervision of Prof Luigi Del Debbio, the University of Edinburgh. Her PhD involved developing and applying analytical and computational techniques, such at Monte Carlo methods, to study properties of elementary particles such as quarks and gluons at low energy. After a short postdoc in computational cancer biology with Prof Chris Ponting, she became an MRC/UoE Cross-Disciplinary Fellow (XDF) in 2018. She was awarded the Institutional Strategic Support Fund (ISSF) grant from Wellcome Trust, in collaboration with Luke Boulter and Catalina Vallejos, to develop experimental and probabilistic modelling techniques in order to quantify the necessary and sufficient early conditions required for the evolution of normal cells into cancer cells, using a tractable somatic mouse model. As an affiliate of the Higgs Centre for Theoretical Physics, Ava also collaborates with the School of Physics, IGMM and industry, to develop machine learning (neural network¬) techniques for applications to population big data biology.   
+
+ 
+
+Publications:
+
+https://scholar.google.com/citations?user=a5dZYHUAAAAJ&hl=en <https://scholar.google.com/citations?user=a5dZYHUAAAAJ&hl=en>  
+
+ 
+
+Research talk: 
+
+Predicting recurrent mutational competition and clonal expansion in early cancer: a dynamical interaction between experimental design and probabilistic modelling 
+
+Cancer is known to be a result of Darwinian evolution, where cells acquiring driver mutations are positively selected, leading to preferential clonal expansion. Advances in high-throughput DNA- and RNA-sequencing have substantially increased our understanding of late stage cancer but we still lack quantitative understanding of the necessary and sufficient early conditions that are required for the evolution of normal cells into cancer cells. 
+
+In the first part of the talk, I will describe an experimental design that allows for tracing clonal evolution at cellular resolutions over the first hours and days of oncogenesis, in the context of liver cancer. I will then discuss the development of a novel probabilistic model to quantify interactions between different driver mutations leading to competition and cooperativity of cell populations over time.  
+
+In the second part of the talk, I will generalise the notion of interactions in molecular biology beyond cancer and discuss a novel machine learning technique to predict higher-order interactions between gene expressions or patient biomarkers in the context of population big data biology.  
+
+ 
+
+12.00pm: Break 
+
+ 
+
+12.30pm: Alina Selega (host Helen Nickerson helen.nickerson@igmm.ed.ac.uk <mailto:helen.nickerson@igmm.ed.ac.uk> )
+
+Biography: 
+
+Dr. Alina Selega is a postdoctoral fellow at the University of Toronto and the Vector Institute, working on modelling single-cell sequencing data for characterising tumour evolution. She completed her Ph.D. at the School of Informatics, University of Edinburgh, where she developed computational methods for profiling RNA secondary structure and RNA-protein binding. Her research is focused on the development of probabilistic modelling and machine learning methods for molecular sequencing data. Her research interests include cancer genomics, biomedical applications, antimicrobial resistance, and neuroscience.
+
+ 
+
+Publications:
+
+https://scholar.google.ca/citations?user=tpG4CaIAAAAJ&hl=en&oi=ao <https://scholar.google.ca/citations?user=tpG4CaIAAAAJ&hl=en&oi=ao>  
+
+ 
+
+Research talk: 
+
+Interpretable machine learning for molecular sequencing data: from RNA biology to cancer genomics.
+
+Due to decreasing cost, high-throughput sequencing data are becoming increasingly available for many biomedical problems. Patterns in genomic and transcriptomic sequences have uncovered key regulatory mechanisms of disease and informed treatments. To model these vast, complex data and perform inference in biomedical problems that often lack ground truth, we need scalable and interpretable machine learning methods, which incorporate domain-informed probabilistic assumptions. In this talk, I will provide some examples of using such machine learning methods to address key challenges in the analysis of molecular sequencing data. I will discuss a probabilistic method for interpreting noisy experimental data to infer RNA secondary structure. I will also include some recent work on using optimal segmentation to infer copy number in single-cell RNA sequencing datasets.
+
+ 
+
+1.15pm: Break 
+
+ 
+
+Teaching talks
+
+The presentation should be a 15 minute lecture aimed at fourth year undergraduates in Informatics, and MSc students in Data Science and AI.
+
+The lecture should introduce a dimensionality reduction or clustering technique, and illustrate it with an example from the biomedical sciences. You can assume background in linear algebra and statistics and probability. The presentation will be attended by students and staff and there will be five minutes afterwards to ask questions about the presentation, and about the candidate's approach to teaching.
+
+ 
+
+2.15pm: Alina Selega  
+
+ 
+
+2.45pm: Ailith Ewing
+
+ 
+
+3.15pm: Break 
+
+ 
+
+3.45pm: Ava Khamseh  
+
+ 
+
+4.15pm: Feedback session
+
+ 
+
+ 
+
+------
+
+Samantha Inch
+
+Staffing Support Manager
+
+HR Office
+
+Room 5.39
+
+University of Edinburgh, Informatics Forum
+
+10 Crichton St | Edinburgh | EH8 9AB
+
+Tel:  +44 131 650 9006
+
+ 
+
+The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336.
+
+ 

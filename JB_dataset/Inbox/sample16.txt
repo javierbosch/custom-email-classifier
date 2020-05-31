@@ -1,0 +1,165 @@
+students-bounces@inf.ed.ac.uk
+---------------
+Re: [Students] Talks TODAY 14th April Lecturer/Senior Lecturer/Reader in Machine Learning
+---------------
+Link below for today:
+
+ 
+
+https://eu.bbcollab.com/guest/bbfd5dbaf8cc42efb8ac2116d2097fe7 <https://eu.bbcollab.com/guest/bbfd5dbaf8cc42efb8ac2116d2097fe7> 
+
+ 
+
+Please come in a couple of minutes ahead of time to ensure you are set up and that you do not interrupt the candidate inadvertently.
+
+ 
+
+You will need to agree for your browser to use your microphone and video. However, all attendees are asked to make sure to mute their microphones when they enter the session, and to have video off too, outside the question time. Given the difficulties of the online format, we will need to leave questions to the end of the talks. We will provide instructions for asking questions at that point.
+
+ 
+
+ 
+
+ 
+
+From: INFORMATICS HR 
+Sent: 14 April 2020 08:46
+To: staff@inf.ed.ac.uk; students@inf.ed.ac.uk; staff-2@inf.ed.ac.uk
+Cc: INFORMATICS HR <infhr@inf.ed.ac.uk>
+Subject: Talks TODAY 14th April Lecturer/Senior Lecturer/Reader in Machine Learning
+
+ 
+
+The talks for Lecturer/Senior Lecturer/Reader in Machine Learning will take place TODAY. Please note all talks are confidential and should not be shared out with the school. We will be using Blackboard Collaborate for these talks and we will send the link in due course. 
+
+ 
+
+Feedback on the talks can be sent by email to Jane Hillston (Jane.Hillston@ed.ac.uk <mailto:Jane.Hillston@ed.ac.uk> ) or Amos Storkey (A.Storkey@ed.ac.uk <mailto:A.Storkey@ed.ac.uk> ) 
+
+ 
+
+If anyone wishes to talk with the candidates please contact their hosts who will be arranging an online schedule for them. 
+
+ 
+
+If anyone has any questions please just let me know and I will be more than happy to help. 
+
+ 
+
+Best wishes, 
+
+Sam 
+
+ 
+
+------------
+
+Research talks 
+
+ 
+
+10.30am: Yingzhen Li (host Iain Murray) 
+
+Biography:
+
+Yingzhen Li is a senior researcher at Microsoft Research Cambridge. She is passionate about building reliable machine learning systems, and her approach combines both Bayesian statistics and deep learning. She has published research papers and served as area chairs at top AI conferences (e.g. NeurIPS/ICML), and her work has been applied in industrial systems and implemented in deep learning frameworks (e.g. Tensorflow Probability and Pyro). She received her PhD from the University of Cambridge, and previously she has interned at Disney Research.
+
+ 
+
+Publications: 
+
+http://yingzhenli.net/home/en/?page_id=345
+
+ 
+
+Research talk:
+
+Deep probabilistic modelling for reliable machine learning systems
+
+Machine learning, especially deep learning, has many recent successes including beating the human champion of the board game Go. However, as we start to deploy deep learning models to assist high risk decision making, we naturally question about the reliability of the model on predicting important quantities. In this regard, deep probabilistic modelling is an emerging research field which shows great promise for reliable machine learning systems. It provides a principled solution to incorporate domain knowledge in model design and quantify uncertainty in prediction, on the other hand the expressiveness of the probabilistic model is enhanced by deep neural networks.
+
+This talk will describe the fundamental aspects of deep probabilistic modelling, with defending adversarial examples as a running application example. I will present a unified framework for fast and accurate approximate Bayesian inference in deep probabilistic models, and show how better inference could improve adversarial robustness for Bayesian neural networks. I will also briefly present an empirical study on the impact of graphical model  structure on adversarial robustness and detection. I will conclude the talk with an outlook of better probabilistic modelling for reliable machine learning pipelines.
+
+ 
+
+ 
+
+11.15am: Yongxin Yang (host Oisin Mac Aodha)
+
+Biography:
+
+Dr Yongxin Yang is a lecturer in machine learning at University of Surrey. His research is in the area of multi-task learning, transfer learning, and meta learning. He has broad interests in applications of machine learning, e.g., computer vision, medical science, and finance.
+
+ 
+
+Publications:
+
+https://scholar.google.co.uk/citations?user=F7PtrL8AAAAJ&hl=en
+
+ 
+
+Research Talk:
+
+Neural Networks for Option Pricing: Rationality by Design
+
+With the great amount of annotated data, modern machine learning, esp. deep learning methods, have been very successfully for certain tasks. However, when they are applied to mission critical scenarios such as finance and medical science, some challenges remain. Beyond merely accurate predictions, we increasingly care about more how those predictions are derived, e.g., analysing correlation between model input (feature) and model output (prediction). In this talk, we present an example of applying neural networks to European option pricing -- a quantitative finance problem. By designing deep learning models amenable to enforcement of fundamental econometric constraints, we can both guarantee their satiny and their reasonable generalisation to out of bounds data.
+
+ 
+
+12.00pm          Feedback session 
+
+            
+
+ 
+
+Teaching talks
+
+The presentation should be an introductory 15 minutes talk aimed at MSc students from a broad background, explaining the key issues in choosing, training and using deep convolutional neural networks for classification. The talk can assume that the students have been introduced to the basics of (non-convolutional) neural networks with a small number of layers already, and have been introduced to learning models with stochastic gradient methods. The talk should include practical examples. The presentation will be attended by students (possibly of different levels) and staff, and there will be five minutes afterwards to ask questions about the presentation and about the candidates approach to teaching.
+
+ 
+
+2.45pm: Yongxin Yang
+
+ 
+
+3.15pm: Break
+
+ 
+
+3.30pm: Yingzhen Li
+
+ 
+
+4.00pm: Feedback Session
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+------
+
+Samantha Inch
+
+Staffing Support Manager
+
+HR Office
+
+Room 5.39
+
+University of Edinburgh, Informatics Forum
+
+10 Crichton St | Edinburgh | EH8 9AB
+
+Tel:  +44 131 650 9006
+
+ 
+
+The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336.
+
+ 
