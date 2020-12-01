@@ -1,5 +1,0 @@
-learn@ed.ac.uk
----------------
-Informatics 1 - Introduction to Computation (2019-2020)[SEM1]: Mathematics for Computing
----------------
-Today we will look at Propositional Logic: Conjunction, disjunction, conditional statements, biconditionals and truth tables of compound propositions.

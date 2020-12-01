@@ -1,5 +1,0 @@
-learn@ed.ac.uk
----------------
-Introduction to Linear Algebra (2019-2020)[SEM1]: ILA Homework 3 marks
----------------
- 
